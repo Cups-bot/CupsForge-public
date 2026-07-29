@@ -1,6 +1,4 @@
 {
-    "generated":  "2026-07-29T22:33:07",
-    "app":  null,
     "catalog":  {
                     "path":  "catalog.json",
                     "asset":  "f-af1700f7241a6fbb.json",
@@ -1784,5 +1782,13 @@
                           "size":  112798,
                           "sha256":  "9ad8d1201ac8b278e8f950c67e6ede1b69cbd9a45d3b6202479cf038301aa176"
                       }
-                  ]
+                  ],
+    "generated":  "2026-07-30T00:00:21",
+    "app":  {
+                "version":  "3.0.0",
+                "notes":  "",
+                "asset":  "app-3.0.0.exe",
+                "size":  73204744,
+                "sha256":  "e88d39fe94d59845cdd339d221fc72b996fa78ac5a54aa67a5a5039e9aeed44f"
+            }
 }
