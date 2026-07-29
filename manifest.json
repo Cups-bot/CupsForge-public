@@ -1,0 +1,1788 @@
+{
+    "generated":  "2026-07-29T22:33:07",
+    "app":  null,
+    "catalog":  {
+                    "path":  "catalog.json",
+                    "asset":  "f-af1700f7241a6fbb.json",
+                    "size":  12165,
+                    "sha256":  "af1700f7241a6fbbaa53124a9f545be45904a21f2562e2a8dceab68725c3331f"
+                },
+    "templates":  [
+                      {
+                          "path":  "_SIZE.ai",
+                          "asset":  "f-7c1de91803dbbca3.ai",
+                          "size":  307399,
+                          "sha256":  "7c1de91803dbbca3850eb8f046e78542edb61224e03018d81ccc7a8fbbfa2eb2"
+                      },
+                      {
+                          "path":  "_SIZE.pdf",
+                          "asset":  "f-ed7843cd30015f03.pdf",
+                          "size":  325176,
+                          "sha256":  "ed7843cd30015f03de845b911495852f051e759d29e4d75106683e685e6bbe0e"
+                      },
+                      {
+                          "path":  "10_Candy/SWEET AS.ai",
+                          "asset":  "f-fdd51a68236b5830.ai",
+                          "size":  546636,
+                          "sha256":  "fdd51a68236b583051e65d2ccc2c60906b9cb61c846ddb015f58b0dd1f3cf4ad"
+                      },
+                      {
+                          "path":  "10_Candy/SWEET D.ai",
+                          "asset":  "f-a937b9d845269ee2.ai",
+                          "size":  546408,
+                          "sha256":  "a937b9d845269ee26000c575ad3b2826219c19059ac4d13e6ceda849cc5d8424"
+                      },
+                      {
+                          "path":  "10_Candy/SWEET_AS.ai",
+                          "asset":  "f-fdd51a68236b5830.ai",
+                          "size":  546636,
+                          "sha256":  "fdd51a68236b583051e65d2ccc2c60906b9cb61c846ddb015f58b0dd1f3cf4ad"
+                      },
+                      {
+                          "path":  "10_Candy/SWEET_D.ai",
+                          "asset":  "f-a937b9d845269ee2.ai",
+                          "size":  546408,
+                          "sha256":  "a937b9d845269ee26000c575ad3b2826219c19059ac4d13e6ceda849cc5d8424"
+                      },
+                      {
+                          "path":  "11_Bag/_BF280-240-140-E-0000.ai",
+                          "asset":  "f-f57b81081fe494b2.ai",
+                          "size":  15459214,
+                          "sha256":  "f57b81081fe494b251c232724b201a8b3da020051af9fc714c7a805c593c0ac5"
+                      },
+                      {
+                          "path":  "11_Bag/_BF280-240-140W-E-0000.ai",
+                          "asset":  "f-642aa314aeea60da.ai",
+                          "size":  334222,
+                          "sha256":  "642aa314aeea60dace0350233fdd9004ecac97d90d49e4a12cbc46e77c7c282f"
+                      },
+                      {
+                          "path":  "11_Bag/_BF320-320-180-E-0000.ai",
+                          "asset":  "f-7e6d80c2e7a04a16.ai",
+                          "size":  15453632,
+                          "sha256":  "7e6d80c2e7a04a16b87cd722939123d42ac8e852fb1e3ee4826f019de757dc99"
+                      },
+                      {
+                          "path":  "11_Bag/_BF370-320-200-E-0000.ai",
+                          "asset":  "f-7769e582bf885a33.ai",
+                          "size":  15455198,
+                          "sha256":  "7769e582bf885a33dba92d538010f6c945f2946c0a7fcc631b3882c4ff8b2c1e"
+                      },
+                      {
+                          "path":  "11_Bag/_BF370-320-200W-E-0000.ai",
+                          "asset":  "f-0bf425a55be9b467.ai",
+                          "size":  327751,
+                          "sha256":  "0bf425a55be9b4678110b6f9c0f101e9d6508c9609fb23f6bf849ab1abee38df"
+                      },
+                      {
+                          "path":  "11_Bag/_BF450-350-150-E-0000.ai",
+                          "asset":  "f-e4b89a09d4fe71e1.ai",
+                          "size":  15450199,
+                          "sha256":  "e4b89a09d4fe71e121c39c2759b57961371703a99e684a7d21f48fdd03231cd2"
+                      },
+                      {
+                          "path":  "11_Bag/_BH280-240-140-E-0000.ai",
+                          "asset":  "f-5e23926e25f1413f.ai",
+                          "size":  15452777,
+                          "sha256":  "5e23926e25f1413fbb4c58c569b27bab959d5a6c3a78a5525e0d35436787c6b6"
+                      },
+                      {
+                          "path":  "11_Bag/_BH280-240-140W-E-0000.ai",
+                          "asset":  "f-e6547c6306cdac32.ai",
+                          "size":  325079,
+                          "sha256":  "e6547c6306cdac328573628d3edcac938f90497305668ae177e99e8b2f16a79f"
+                      },
+                      {
+                          "path":  "11_Bag/_BH350-260-140-E-0000.ai",
+                          "asset":  "f-8d158ba1b1ab40b2.ai",
+                          "size":  15462279,
+                          "sha256":  "8d158ba1b1ab40b29304eba2a5fac03afa96034d235b67cecda41a8a27896d5c"
+                      },
+                      {
+                          "path":  "11_Bag/_BH350-260-140W-E-0000.ai",
+                          "asset":  "f-32dae83e38275126.ai",
+                          "size":  334345,
+                          "sha256":  "32dae83e38275126d27a870f296fe4ed2d88b580cefa2700977927d5876c1e16"
+                      },
+                      {
+                          "path":  "11_Bag/_BH370-320-200-E-0000.ai",
+                          "asset":  "f-ce7a69ec24d4d2c4.ai",
+                          "size":  15456598,
+                          "sha256":  "ce7a69ec24d4d2c45b4cfc6ef394d1282a262edb97c29fe4c9453e07b540872c"
+                      },
+                      {
+                          "path":  "11_Bag/_BH370-320-200W-E-0000.ai",
+                          "asset":  "f-5906eb6b67fcb10b.ai",
+                          "size":  329038,
+                          "sha256":  "5906eb6b67fcb10b46357ba45847af3f5c59d4e1e121722dc6670256cc774e3b"
+                      },
+                      {
+                          "path":  "11_Bag/_BH450-350-150-E-0000.ai",
+                          "asset":  "f-09ed7f02a7c93149.ai",
+                          "size":  15457064,
+                          "sha256":  "09ed7f02a7c93149e9e23eec017d960140f66d862453725c5c960d434f8fef9a"
+                      },
+                      {
+                          "path":  "11_Bag/_BH450-350-150W-E-0000.ai",
+                          "asset":  "f-24fa3852f8932ba2.ai",
+                          "size":  329579,
+                          "sha256":  "24fa3852f8932ba21522286f6272dc93e529427f8cf0565863a4122d5d9c1cce"
+                      },
+                      {
+                          "path":  "11_Bag/_BR285-130-70-E-0000.ai",
+                          "asset":  "f-8e50e520b2ae6457.ai",
+                          "size":  10388265,
+                          "sha256":  "8e50e520b2ae6457e64fad521ef10883735b2327e9745d59f15d697089f52ad8"
+                      },
+                      {
+                          "path":  "11_Bag/_BR290-180-120-E-0000.ai",
+                          "asset":  "f-39fcd09df3d67b91.ai",
+                          "size":  10389115,
+                          "sha256":  "39fcd09df3d67b91082f579ea5548ae8c2d135530607d9188815350a507935a9"
+                      },
+                      {
+                          "path":  "11_Bag/_BR290-180-120W-E-0000.ai",
+                          "asset":  "f-a9c0cf2dca0865da.ai",
+                          "size":  322002,
+                          "sha256":  "a9c0cf2dca0865da2acc5709a31d1254222c6e53cbe3b2a9fb499d774fa4cf49"
+                      },
+                      {
+                          "path":  "11_Bag/_BR340-320-200-E-0000.ai",
+                          "asset":  "f-9724ada4b01cbdc3.ai",
+                          "size":  10386386,
+                          "sha256":  "9724ada4b01cbdc393926b8fffa4e95314f5c6e539f30b19111a8933a3a66f90"
+                      },
+                      {
+                          "path":  "11_Bag/_BR400-240-140-E-0000.ai",
+                          "asset":  "f-51fd2ff7500b2b97.ai",
+                          "size":  10388906,
+                          "sha256":  "51fd2ff7500b2b97a5950cdd087a2c69dbaf217adc91da7aa97f33dbd6cc5692"
+                      },
+                      {
+                          "path":  "11_Bag/PDF/BF280-240-140-E-0000.pdf",
+                          "asset":  "f-781c9c38a718e180.pdf",
+                          "size":  325575,
+                          "sha256":  "781c9c38a718e18042a7f9db4e2cedf8651ae9dad734e92602792c11e6197aa5"
+                      },
+                      {
+                          "path":  "11_Bag/PDF/BF280-240-140W-E-0000.pdf",
+                          "asset":  "f-9989c49d6fa9f17a.pdf",
+                          "size":  328705,
+                          "sha256":  "9989c49d6fa9f17a15e03f3976f788ac262097f5a1ab221189695d9796012957"
+                      },
+                      {
+                          "path":  "11_Bag/PDF/BF320-320-180-E-0000.pdf",
+                          "asset":  "f-3bfb872ba75ddad3.pdf",
+                          "size":  328722,
+                          "sha256":  "3bfb872ba75ddad3a76c64b00010cb7dff443f3c5be886e271983753219a29e8"
+                      },
+                      {
+                          "path":  "11_Bag/PDF/BF370-320-200-E-0000.pdf",
+                          "asset":  "f-5138b9aede9c6e50.pdf",
+                          "size":  328139,
+                          "sha256":  "5138b9aede9c6e5040b9b442adaf527f0f7e03f14899b1f3efd518ef93610ed1"
+                      },
+                      {
+                          "path":  "11_Bag/PDF/BF370-320-200W-E-0000.pdf",
+                          "asset":  "f-80b8276ba1d070fd.pdf",
+                          "size":  329206,
+                          "sha256":  "80b8276ba1d070fd20c52072c4eab698864dd8e50bdafbef71f85b5057eb387a"
+                      },
+                      {
+                          "path":  "11_Bag/PDF/BF450-350-150-E-0000.pdf",
+                          "asset":  "f-0e41be42eec562fe.pdf",
+                          "size":  327821,
+                          "sha256":  "0e41be42eec562fef24cc01bb4a7d8f6097b09a2963dee864008db565cb1373c"
+                      },
+                      {
+                          "path":  "11_Bag/PDF/BH280-240-140-E-0000.pdf",
+                          "asset":  "f-c4ea0faef59ff21d.pdf",
+                          "size":  333819,
+                          "sha256":  "c4ea0faef59ff21d8383fc2822af0b92a9d235578d0baf7fcacd1696c306615e"
+                      },
+                      {
+                          "path":  "11_Bag/PDF/BH280-240-140W-E-0000.pdf",
+                          "asset":  "f-351ff5a667aa0459.pdf",
+                          "size":  332176,
+                          "sha256":  "351ff5a667aa0459afcd53a603f62279c88d1510be76fc6cf9175533d763f806"
+                      },
+                      {
+                          "path":  "11_Bag/PDF/BH350-260-140-E-0000.pdf",
+                          "asset":  "f-502036694927341b.pdf",
+                          "size":  335351,
+                          "sha256":  "502036694927341be23c6dbdb74a6c2ce2720313da018fbb019f9a92396e5172"
+                      },
+                      {
+                          "path":  "11_Bag/PDF/BH350-260-140W-E-0000.pdf",
+                          "asset":  "f-8c4aaf571b77ec5f.pdf",
+                          "size":  326810,
+                          "sha256":  "8c4aaf571b77ec5f5b597c8a8b63b5bed87920ee06d7536b43931bfb7d4fd403"
+                      },
+                      {
+                          "path":  "11_Bag/PDF/BH370-320-200-E-0000.pdf",
+                          "asset":  "f-d88dfabf51aad99c.pdf",
+                          "size":  328082,
+                          "sha256":  "d88dfabf51aad99c10ce63642762f83a7554800aa7c9373b7deec84c0ede6c63"
+                      },
+                      {
+                          "path":  "11_Bag/PDF/BH370-320-200W-E-0000.pdf",
+                          "asset":  "f-c1b9c20f4ece47c3.pdf",
+                          "size":  324987,
+                          "sha256":  "c1b9c20f4ece47c37da5be415a77b597a541ce76e8d1e055babcf7e27a126b84"
+                      },
+                      {
+                          "path":  "11_Bag/PDF/BH450-350-150-E-0000.pdf",
+                          "asset":  "f-6f2bc544bf0836aa.pdf",
+                          "size":  323379,
+                          "sha256":  "6f2bc544bf0836aa714af48d217c2fccef6e346f09ad8f8fa7e3cf8967e54c8f"
+                      },
+                      {
+                          "path":  "11_Bag/PDF/BH450-350-150W-E-0000.pdf",
+                          "asset":  "f-173776d15741b3ed.pdf",
+                          "size":  327695,
+                          "sha256":  "173776d15741b3edc355c10b2d3f632411e8b260d71951da5d1e2ad6b373a5ec"
+                      },
+                      {
+                          "path":  "11_Bag/PDF/BR285-130-70-E-0000.pdf",
+                          "asset":  "f-8d9c96c32e71ec5a.pdf",
+                          "size":  328769,
+                          "sha256":  "8d9c96c32e71ec5af7d74229154e175cf6dbcfae5e88c57a1a3821e22a852bea"
+                      },
+                      {
+                          "path":  "11_Bag/PDF/BR290-180-120-E-0000.pdf",
+                          "asset":  "f-61003fbd433f537c.pdf",
+                          "size":  328248,
+                          "sha256":  "61003fbd433f537c40943daec42cb5a2a0c25372fc0852f264146411dd226ea8"
+                      },
+                      {
+                          "path":  "11_Bag/PDF/BR290-180-120W-E-0000.pdf",
+                          "asset":  "f-b2dd11202d67ee86.pdf",
+                          "size":  327593,
+                          "sha256":  "b2dd11202d67ee8640e7b37dc1b5264f1f65881b34518f64444da4fd31c40f85"
+                      },
+                      {
+                          "path":  "11_Bag/PDF/BR340-320-200-E-0000.pdf",
+                          "asset":  "f-b396c7e2431d8cc6.pdf",
+                          "size":  326173,
+                          "sha256":  "b396c7e2431d8cc683826f570ef6b28742088b5d5b207d719381074a508da8e0"
+                      },
+                      {
+                          "path":  "11_Bag/PDF/BR400-240-140-E-0000.pdf",
+                          "asset":  "f-8bc54bd72197f3ab.pdf",
+                          "size":  322809,
+                          "sha256":  "8bc54bd72197f3ab4b4429b9f503ff284936931dd5dc6af13f736fc8838c78a0"
+                      },
+                      {
+                          "path":  "1_Flexo/CON75-130-000000.ai",
+                          "asset":  "f-24938a29f3f1a6bb.ai",
+                          "size":  360864,
+                          "sha256":  "24938a29f3f1a6bba0c3831adfa50db39a51891503c260394abacf23851096b5"
+                      },
+                      {
+                          "path":  "1_Flexo/_DW80-280-0000.ai",
+                          "asset":  "f-0e5b4bcef8869692.ai",
+                          "size":  510176,
+                          "sha256":  "0e5b4bcef8869692665d5c8047250c7a8b39c0f1f17dce670a72999ae68edb05"
+                      },
+                      {
+                          "path":  "1_Flexo/_DW90-430-0000.ai",
+                          "asset":  "f-b86cbed5d3d0c8f7.ai",
+                          "size":  687860,
+                          "sha256":  "b86cbed5d3d0c8f75c5b663f76afff5c861c6675f131338e279c6263381af21b"
+                      },
+                      {
+                          "path":  "1_Flexo/_DW90-530-0000.ai",
+                          "asset":  "f-b3ff16e3068efb13.ai",
+                          "size":  469727,
+                          "sha256":  "b3ff16e3068efb135e8412f28c0c38fbf9ddb05d031f5a98fc9dc8cfddd792d7"
+                      },
+                      {
+                          "path":  "1_Flexo/_DWE80-280-0000.ai",
+                          "asset":  "f-f10d5118f6269876.ai",
+                          "size":  493398,
+                          "sha256":  "f10d5118f62698769752a8ad67d140aa240f5ae55316e302fbc6071c5eb01313"
+                      },
+                      {
+                          "path":  "1_Flexo/_DWE90-430-0000.ai",
+                          "asset":  "f-3c2a1b5f772a267b.ai",
+                          "size":  667491,
+                          "sha256":  "3c2a1b5f772a267bb64d35adbc7ea5fff5862918b202ef161023796cff4d4557"
+                      },
+                      {
+                          "path":  "1_Flexo/_DWE90-530-0000.ai",
+                          "asset":  "f-91fb8cae57ef6d1e.ai",
+                          "size":  455691,
+                          "sha256":  "91fb8cae57ef6d1eff331af6d8249f225d8cbda9222a98064fa3c87c4555f0e1"
+                      },
+                      {
+                          "path":  "1_Flexo/_EH80-280-0000.ai",
+                          "asset":  "f-f002cc16046a54be.ai",
+                          "size":  576307,
+                          "sha256":  "f002cc16046a54be5a2c6a86664ec2662f10197f34c8d5fe00fd85e7449bfcab"
+                      },
+                      {
+                          "path":  "1_Flexo/_EH90-430-0000.ai",
+                          "asset":  "f-d6a3e36da0a0495b.ai",
+                          "size":  633971,
+                          "sha256":  "d6a3e36da0a0495bd705baf200ff940b105ef38fc73c81f967d09e9e7c918ad9"
+                      },
+                      {
+                          "path":  "1_Flexo/_EHB80-280-0000.ai",
+                          "asset":  "f-f36f4382c6be2b6d.ai",
+                          "size":  1597488,
+                          "sha256":  "f36f4382c6be2b6d94d422353d9672ab70291bd2d5e534ade2fe580c08dc7260"
+                      },
+                      {
+                          "path":  "1_Flexo/_EHB80-360-0000.ai",
+                          "asset":  "f-6888f0840fa07e48.ai",
+                          "size":  533776,
+                          "sha256":  "6888f0840fa07e485c122a41e8c2eb8fa727d0027d0e322c1299a4b44413572e"
+                      },
+                      {
+                          "path":  "1_Flexo/_EHB90-430-0000.ai",
+                          "asset":  "f-0bfe0b60f27962bc.ai",
+                          "size":  2241399,
+                          "sha256":  "0bfe0b60f27962bce899cc13c32d5e8874bebb46a9f1fda35bd0ccd217975517"
+                      },
+                      {
+                          "path":  "1_Flexo/_EHB90-530-0000.ai",
+                          "asset":  "f-72d4ffacd992bd9c.ai",
+                          "size":  511842,
+                          "sha256":  "72d4ffacd992bd9c28f677fc427f96b2f4040f9d084741af75782d3916a7bf7d"
+                      },
+                      {
+                          "path":  "1_Flexo/_EM80-280-0000.ai",
+                          "asset":  "f-d3e6c8749ee57fff.ai",
+                          "size":  1666016,
+                          "sha256":  "d3e6c8749ee57fff7a78bb4baa5326ffc090f3e93d5469607cd8ab5bacd6db43"
+                      },
+                      {
+                          "path":  "1_Flexo/_EM90-430-0000.ai",
+                          "asset":  "f-94e4abb2e41e6c35.ai",
+                          "size":  2269255,
+                          "sha256":  "94e4abb2e41e6c351e88a80a5b35c00dbe8f58dbb680580c73634f6a3eb93e6c"
+                      },
+                      {
+                          "path":  "1_Flexo/_EM90-530-0000.ai",
+                          "asset":  "f-cdaec955c6866e6f.ai",
+                          "size":  2153948,
+                          "sha256":  "cdaec955c6866e6f71c8aa72178eb3da1f89f82f58fadaabc4ca3db6b214255c"
+                      },
+                      {
+                          "path":  "1_Flexo/_HB62-120_0000.ai",
+                          "asset":  "f-f24fa476d581e89e.ai",
+                          "size":  338001,
+                          "sha256":  "f24fa476d581e89eecf0faa763cf9c326b4c0a32d1b1cbb03a6276cc12540888"
+                      },
+                      {
+                          "path":  "1_Flexo/_HB70-180-0000.ai",
+                          "asset":  "f-f11e7eb7e19d510e.ai",
+                          "size":  498720,
+                          "sha256":  "f11e7eb7e19d510ea6016e952842db31eb3d66a3cc9b3b4cccc24205661c3d21"
+                      },
+                      {
+                          "path":  "1_Flexo/_HB70-195-0000.ai",
+                          "asset":  "f-184bbdfeadbce958.ai",
+                          "size":  503992,
+                          "sha256":  "184bbdfeadbce95863d266981c8af1c1b6531715d55c3aaef7a4b91e75c58fae"
+                      },
+                      {
+                          "path":  "1_Flexo/_HB70-210-0000.ai",
+                          "asset":  "f-954992bb10cfc8ad.ai",
+                          "size":  528199,
+                          "sha256":  "954992bb10cfc8adc9afae03f35bd4cd0c1c226bf9b29c3b0bbf52888b04a98b"
+                      },
+                      {
+                          "path":  "1_Flexo/_HB72-205-0000.ai",
+                          "asset":  "f-60bdff3af32f343e.ai",
+                          "size":  507747,
+                          "sha256":  "60bdff3af32f343e1bfdad243761ef99d58c22b68e7ed2c4c1a886d17d6ba286"
+                      },
+                      {
+                          "path":  "1_Flexo/_HB73-260_0000.ai",
+                          "asset":  "f-3068925106babbf4.ai",
+                          "size":  372465,
+                          "sha256":  "3068925106babbf4d1ba5fd83d734bdc99ed1c7d17c1854ad6a4fd0b5c2eaade"
+                      },
+                      {
+                          "path":  "1_Flexo/_HB80-280-0000.ai",
+                          "asset":  "f-6f5062832be95991.ai",
+                          "size":  353773,
+                          "sha256":  "6f5062832be9599170209485393e9c4b5674b7a389dd1e9148ab04f9345dd548"
+                      },
+                      {
+                          "path":  "1_Flexo/_HB80-280-L-0000.ai",
+                          "asset":  "f-095f7d3d6d05b702.ai",
+                          "size":  353654,
+                          "sha256":  "095f7d3d6d05b702cc5bde043dab4091aab3e97d9e0891864e2afda93cb5b2bf"
+                      },
+                      {
+                          "path":  "1_Flexo/_HB80-280v-0000.ai",
+                          "asset":  "f-c04efd36e236f09c.ai",
+                          "size":  353878,
+                          "sha256":  "c04efd36e236f09cfc65e9c3a1be37a97e33adb4266d8e899213f6344f900cb1"
+                      },
+                      {
+                          "path":  "1_Flexo/_HB80-340-0000.ai",
+                          "asset":  "f-ff736e26ec2ca863.ai",
+                          "size":  517414,
+                          "sha256":  "ff736e26ec2ca86320e6affacc66e5205bcc811b785189a56826b2885aeeb702"
+                      },
+                      {
+                          "path":  "1_Flexo/_HB80-360-0000.ai",
+                          "asset":  "f-a0a4df557fb17a73.ai",
+                          "size":  533651,
+                          "sha256":  "a0a4df557fb17a73e410ec68eee94e32a716e57917d90c85fe766c20ec4b1239"
+                      },
+                      {
+                          "path":  "1_Flexo/_HB90-430-0000.ai",
+                          "asset":  "f-dd38693ab3739dfc.ai",
+                          "size":  510920,
+                          "sha256":  "dd38693ab3739dfc9c2218a37a1a6eaacef42a0998790a5dd3494703a2b6eb89"
+                      },
+                      {
+                          "path":  "1_Flexo/_HB90-430-L-0000.ai",
+                          "asset":  "f-43bdac2ce02a3152.ai",
+                          "size":  510806,
+                          "sha256":  "43bdac2ce02a3152c6e30070f4a66e147d6976fea3050aa6b50f5c9751c95969"
+                      },
+                      {
+                          "path":  "1_Flexo/_HB90-530-0000.ai",
+                          "asset":  "f-1481703109971a84.ai",
+                          "size":  511907,
+                          "sha256":  "1481703109971a84d9757c3ae02598bde55955c396757999443098ec7d42b6ed"
+                      },
+                      {
+                          "path":  "1_Flexo/_HB90-630-0000.ai",
+                          "asset":  "f-65f5e3b58fe62fd0.ai",
+                          "size":  485368,
+                          "sha256":  "65f5e3b58fe62fd0397a3845604e5f6086abe000f4404b5c8c6edadb1f4c8b48"
+                      },
+                      {
+                          "path":  "1_Flexo/EM/_EM80-280-0000_10мм.ai",
+                          "asset":  "f-0668f937b0fc6aa1.ai",
+                          "size":  637544,
+                          "sha256":  "0668f937b0fc6aa12244d1d9722bc08cd3a7a3640e6a357db8c32a454ab77c8b"
+                      },
+                      {
+                          "path":  "1_Flexo/EM/_EM80-280-0000_10мм.pdf",
+                          "asset":  "f-01b8e6b37a6c7aa2.pdf",
+                          "size":  637228,
+                          "sha256":  "01b8e6b37a6c7aa20ee76e5377b3553e810b64ca4179098f546097cab0bbc10d"
+                      },
+                      {
+                          "path":  "1_Flexo/EM/_EM90-430-0000_10mm.ai",
+                          "asset":  "f-2148219b7850ed76.ai",
+                          "size":  946629,
+                          "sha256":  "2148219b7850ed76949792e8efee2b7c427a83bbedaaf4bb8046544971085b15"
+                      },
+                      {
+                          "path":  "1_Flexo/EM/_EM90-430-0000_10mm.pdf",
+                          "asset":  "f-336ea797576f4f41.pdf",
+                          "size":  946376,
+                          "sha256":  "336ea797576f4f415d9efd99d8142d9fd2d9ce0d35d40855bb00586aa6e15efc"
+                      },
+                      {
+                          "path":  "1_Flexo/EM/_EM90-530-0000_10mm.ai",
+                          "asset":  "f-27a217a1275c406c.ai",
+                          "size":  914086,
+                          "sha256":  "27a217a1275c406c3e839517e4c4b8a112f3a5006aa17fd0183c95a2efc48b72"
+                      },
+                      {
+                          "path":  "1_Flexo/EM/_EM90-530-0000_10mm.pdf",
+                          "asset":  "f-2356e642b5fbcc55.pdf",
+                          "size":  913059,
+                          "sha256":  "2356e642b5fbcc55fe3785a19831650d2b2cdd29d32afd40acbfc288a79620d5"
+                      },
+                      {
+                          "path":  "1_Flexo/MyCups/CON75-130-000000.ai",
+                          "asset":  "f-1b7f3c1a6a790c3b.ai",
+                          "size":  363879,
+                          "sha256":  "1b7f3c1a6a790c3bb7424a4c6682d7088bcdd43c1b4fb50e0028801e455925b3"
+                      },
+                      {
+                          "path":  "1_Flexo/MyCups/_DW80-280-0000.ai",
+                          "asset":  "f-2e97dd8e6c0ebed9.ai",
+                          "size":  427433,
+                          "sha256":  "2e97dd8e6c0ebed9aeb7bb0bf406339153e895da73495f8121ea9a7202ea12b2"
+                      },
+                      {
+                          "path":  "1_Flexo/MyCups/_DW90-430-0000.ai",
+                          "asset":  "f-d20bac142b961027.ai",
+                          "size":  594576,
+                          "sha256":  "d20bac142b961027976520e81346e759d5d3ec52c150200902c412be36598ded"
+                      },
+                      {
+                          "path":  "1_Flexo/MyCups/_DW90-530-0000.ai",
+                          "asset":  "f-ebb377e599923e14.ai",
+                          "size":  385828,
+                          "sha256":  "ebb377e599923e1495cb7ab985a0a0570f4dd06d1e336b6c6ffc1f0f460026f9"
+                      },
+                      {
+                          "path":  "1_Flexo/MyCups/_DWE80-280-0000.ai",
+                          "asset":  "f-2d9faa8424c2ad10.ai",
+                          "size":  423195,
+                          "sha256":  "2d9faa8424c2ad1052e69f381edea529aeade75d2e84afbbcb831d3c6954825d"
+                      },
+                      {
+                          "path":  "1_Flexo/MyCups/_DWE90-430-0000.ai",
+                          "asset":  "f-3029855b4e4adb6b.ai",
+                          "size":  600464,
+                          "sha256":  "3029855b4e4adb6b546886f1618c23ec99b3870e4caa01315c37bf4952761814"
+                      },
+                      {
+                          "path":  "1_Flexo/MyCups/_DWE90-530-0000.ai",
+                          "asset":  "f-f43b3681503541a3.ai",
+                          "size":  385788,
+                          "sha256":  "f43b3681503541a3a08d80da52864658e9cd4360dbfd0ae025344d373ddc0bc9"
+                      },
+                      {
+                          "path":  "1_Flexo/MyCups/_EH80-280-0000.ai",
+                          "asset":  "f-ee329ff9bde3f5cd.ai",
+                          "size":  586575,
+                          "sha256":  "ee329ff9bde3f5cd61a8659b76bbd86da040b38aade619db75e5caa37d974d86"
+                      },
+                      {
+                          "path":  "1_Flexo/MyCups/_EH90-430-0000.ai",
+                          "asset":  "f-941aab8e6417e64c.ai",
+                          "size":  639974,
+                          "sha256":  "941aab8e6417e64c058472a6645102e4e0e937cf9f27ed66570e1bedeecf2833"
+                      },
+                      {
+                          "path":  "1_Flexo/MyCups/_EHB80-280-0000.ai",
+                          "asset":  "f-2e8c32823f555c5b.ai",
+                          "size":  1608586,
+                          "sha256":  "2e8c32823f555c5bdf690064b8fd499a44e4e4a161e6f94fbf64aff3ea9ad1b0"
+                      },
+                      {
+                          "path":  "1_Flexo/MyCups/_EHB80-360-0000.ai",
+                          "asset":  "f-6888f0840fa07e48.ai",
+                          "size":  533776,
+                          "sha256":  "6888f0840fa07e485c122a41e8c2eb8fa727d0027d0e322c1299a4b44413572e"
+                      },
+                      {
+                          "path":  "1_Flexo/MyCups/_EHB90-430-0000.ai",
+                          "asset":  "f-04fc00eec86eae7a.ai",
+                          "size":  2249395,
+                          "sha256":  "04fc00eec86eae7a020635b61ad3ce1a24b4d9d6b2a63d5d7e8a1a6b0a0b4f24"
+                      },
+                      {
+                          "path":  "1_Flexo/MyCups/_EHB90-530-0000.ai",
+                          "asset":  "f-96f8387eae7630a4.ai",
+                          "size":  518735,
+                          "sha256":  "96f8387eae7630a4e2cbce911d2d96b31b48e358ecf81990ff3ac54d51904126"
+                      },
+                      {
+                          "path":  "1_Flexo/MyCups/_EM80-280-0000.ai",
+                          "asset":  "f-5fe29c0af0953cf0.ai",
+                          "size":  1601256,
+                          "sha256":  "5fe29c0af0953cf06998dd5426817fad24bf625fa34f96c8a71f60099d013b6a"
+                      },
+                      {
+                          "path":  "1_Flexo/MyCups/_EM90-430-0000.ai",
+                          "asset":  "f-72c0e1b1dee08916.ai",
+                          "size":  2186944,
+                          "sha256":  "72c0e1b1dee089161535494788c2500df00ff730b48b92a76f92ca98e766b1e4"
+                      },
+                      {
+                          "path":  "1_Flexo/MyCups/_EM90-530-0000.ai",
+                          "asset":  "f-f2fc89dd5ed15876.ai",
+                          "size":  2069203,
+                          "sha256":  "f2fc89dd5ed15876a6f037a5896892e9e313900e8033ee5dfb1444d84456d7cf"
+                      },
+                      {
+                          "path":  "1_Flexo/MyCups/_HB62-120_0000.ai",
+                          "asset":  "f-55f5a2ba29e6b1f0.ai",
+                          "size":  342873,
+                          "sha256":  "55f5a2ba29e6b1f067fdce11024a1ef650aadbe24c649f03b10bf9e5cf3ffc7f"
+                      },
+                      {
+                          "path":  "1_Flexo/MyCups/_HB70-180-0000.ai",
+                          "asset":  "f-6d9b8d209540d713.ai",
+                          "size":  504738,
+                          "sha256":  "6d9b8d209540d713b149cde3c55d7f3315dfae408171ec8a3648f7ba032eea94"
+                      },
+                      {
+                          "path":  "1_Flexo/MyCups/_HB70-195-0000.ai",
+                          "asset":  "f-9615c251ad1016e9.ai",
+                          "size":  510692,
+                          "sha256":  "9615c251ad1016e933770ee9ac7beab76a1d1026ed2bbc3ce88921dc83a34910"
+                      },
+                      {
+                          "path":  "1_Flexo/MyCups/_HB70-210-0000.ai",
+                          "asset":  "f-6c8016bfb39977a7.ai",
+                          "size":  534824,
+                          "sha256":  "6c8016bfb39977a7a78446fc3b8b7b6fdbd36e95383c3c281a47571d3bb6693e"
+                      },
+                      {
+                          "path":  "1_Flexo/MyCups/_HB72-205-0000.ai",
+                          "asset":  "f-1ca211aa32564018.ai",
+                          "size":  514512,
+                          "sha256":  "1ca211aa325640181be4000f4610516e9022d3e5c6fe175e517693e4bc6cb31d"
+                      },
+                      {
+                          "path":  "1_Flexo/MyCups/_HB73-260_0000.ai",
+                          "asset":  "f-b7425044dea847e1.ai",
+                          "size":  379226,
+                          "sha256":  "b7425044dea847e16e0d6e834fbae271a7a76e8941565e03f9223bb1ca922c73"
+                      },
+                      {
+                          "path":  "1_Flexo/MyCups/_HB80-280-0000.ai",
+                          "asset":  "f-2638421308d9346d.ai",
+                          "size":  352438,
+                          "sha256":  "2638421308d9346d25809db43438cb6444219162b63b364eaadc5675529c9aa9"
+                      },
+                      {
+                          "path":  "1_Flexo/MyCups/_HB80-280-L-0000.ai",
+                          "asset":  "f-a5d2a213880d2dfc.ai",
+                          "size":  358951,
+                          "sha256":  "a5d2a213880d2dfc49d8496219f1c3dca8f2fa5589ca2b9b1ef9eee1df70b415"
+                      },
+                      {
+                          "path":  "1_Flexo/MyCups/_HB80-280v-0000.ai",
+                          "asset":  "f-68bec764f229288b.ai",
+                          "size":  352701,
+                          "sha256":  "68bec764f229288b945ed1ad7ee26a20c0142d640eb913bff08bcf01ce269626"
+                      },
+                      {
+                          "path":  "1_Flexo/MyCups/_HB80-340-0000.ai",
+                          "asset":  "f-08c663f22520fd1b.ai",
+                          "size":  523667,
+                          "sha256":  "08c663f22520fd1b2d1ca242245ea174e28693e282774a1c5af29ecb93d0b1c9"
+                      },
+                      {
+                          "path":  "1_Flexo/MyCups/_HB80-360-0000.ai",
+                          "asset":  "f-602f03845335e8bb.ai",
+                          "size":  528958,
+                          "sha256":  "602f03845335e8bb9bd72893ad3d23aa315e4ee638597b52c56ba34f8cc5ba6b"
+                      },
+                      {
+                          "path":  "1_Flexo/MyCups/_HB90-430-0000.ai",
+                          "asset":  "f-e80f2f0c9aa838e1.ai",
+                          "size":  517321,
+                          "sha256":  "e80f2f0c9aa838e171773d40c65ccabe596988470ee973efc7cfb9d53834c686"
+                      },
+                      {
+                          "path":  "1_Flexo/MyCups/_HB90-430-L-0000.ai",
+                          "asset":  "f-90a11f1e89d3f37e.ai",
+                          "size":  515767,
+                          "sha256":  "90a11f1e89d3f37ef24c79d2aeb0e4d26d8c60565aad5f524df27f2e68bfd5b9"
+                      },
+                      {
+                          "path":  "1_Flexo/MyCups/_HB90-530-0000.ai",
+                          "asset":  "f-93ecbfb9cf589710.ai",
+                          "size":  518475,
+                          "sha256":  "93ecbfb9cf589710c574dad686cb26e88294a086ad3592ffa7966e88d365014f"
+                      },
+                      {
+                          "path":  "1_Flexo/MyCups/_HB90-630-0000.ai",
+                          "asset":  "f-cee90bff8a8a7183.ai",
+                          "size":  492090,
+                          "sha256":  "cee90bff8a8a7183c701f8ba772a151fc7fe886fbc978605c9912443bb13fbf8"
+                      },
+                      {
+                          "path":  "1_Flexo/MyCups/PDF/_DW80-280-0000.pdf",
+                          "asset":  "f-fa5f2415f3ac9e57.pdf",
+                          "size":  415087,
+                          "sha256":  "fa5f2415f3ac9e577c384007fcf7c070c3c06c61a13590b276aca446a9ae915d"
+                      },
+                      {
+                          "path":  "1_Flexo/MyCups/PDF/_DW90-430-0000.pdf",
+                          "asset":  "f-719430e9594f97b1.pdf",
+                          "size":  585300,
+                          "sha256":  "719430e9594f97b1c0c19f9bd581d8e024848fc119e24dd714e6babc74ab0f43"
+                      },
+                      {
+                          "path":  "1_Flexo/MyCups/PDF/_DW90-530-0000.pdf",
+                          "asset":  "f-a686de9040d14dd5.pdf",
+                          "size":  371395,
+                          "sha256":  "a686de9040d14dd502553a36d468aa22e3ab28f231f890375df23e3193065954"
+                      },
+                      {
+                          "path":  "1_Flexo/MyCups/PDF/_DWE80-280-0000.pdf",
+                          "asset":  "f-951dd91676a5b134.pdf",
+                          "size":  420563,
+                          "sha256":  "951dd91676a5b134e925378b008e7998cd1a6b064e88555d1ab08ca0f552027f"
+                      },
+                      {
+                          "path":  "1_Flexo/MyCups/PDF/_DWE90-430-0000.pdf",
+                          "asset":  "f-48530258272af3e8.pdf",
+                          "size":  591948,
+                          "sha256":  "48530258272af3e8da3694117f8ea961c591907b23a4b13829e5400de75c3b2f"
+                      },
+                      {
+                          "path":  "1_Flexo/MyCups/PDF/_DWE90-530-0000.pdf",
+                          "asset":  "f-712fabfa4968bad0.pdf",
+                          "size":  377750,
+                          "sha256":  "712fabfa4968bad07f827fbb3e4e289736e49ac716371821da734487830d3506"
+                      },
+                      {
+                          "path":  "1_Flexo/MyCups/PDF/_EH80-280-0000.pdf",
+                          "asset":  "f-aff60528fe566e60.pdf",
+                          "size":  578754,
+                          "sha256":  "aff60528fe566e60fdb98c6b242900046059a6436e0a155b671adbab2d9b08a2"
+                      },
+                      {
+                          "path":  "1_Flexo/MyCups/PDF/_EH90-430-0000.pdf",
+                          "asset":  "f-538b3f8bddcb5539.pdf",
+                          "size":  629505,
+                          "sha256":  "538b3f8bddcb55395a6eb43f9dd443d679c3ca7b51eeb41df4b219d18d78c434"
+                      },
+                      {
+                          "path":  "1_Flexo/MyCups/PDF/_EHB80-280-0000.pdf",
+                          "asset":  "f-d6f99a9b2b627786.pdf",
+                          "size":  1598609,
+                          "sha256":  "d6f99a9b2b627786a02f10ca763abe60fb46f50934dd46f0ba52629beb1ae9a5"
+                      },
+                      {
+                          "path":  "1_Flexo/MyCups/PDF/_EHB90-430-0000.pdf",
+                          "asset":  "f-ba7da5e30328462b.pdf",
+                          "size":  2241906,
+                          "sha256":  "ba7da5e30328462b869c3d7d47fcc17a79f177a7ca7c9358c91519a297e074b2"
+                      },
+                      {
+                          "path":  "1_Flexo/MyCups/PDF/_EHB90-530-0000.pdf",
+                          "asset":  "f-293893ca2e1224a7.pdf",
+                          "size":  511506,
+                          "sha256":  "293893ca2e1224a7a48fb69ee267620797aa10680d304d717b8f17dd9da43abd"
+                      },
+                      {
+                          "path":  "1_Flexo/MyCups/PDF/_EM80-280-0000.pdf",
+                          "asset":  "f-b1f8607c53d966b0.pdf",
+                          "size":  1592937,
+                          "sha256":  "b1f8607c53d966b047ee86828d38c2bd0393c084f0779c5c6ad0b7c24a43f789"
+                      },
+                      {
+                          "path":  "1_Flexo/MyCups/PDF/_EM90-430-0000.pdf",
+                          "asset":  "f-34ecbaf90b874a82.pdf",
+                          "size":  2178760,
+                          "sha256":  "34ecbaf90b874a82b52e7d219f316ef15f6b8011a957561431b552bc6980f423"
+                      },
+                      {
+                          "path":  "1_Flexo/MyCups/PDF/_EM90-530-0000.pdf",
+                          "asset":  "f-3679fbbe52f78f1d.pdf",
+                          "size":  2063421,
+                          "sha256":  "3679fbbe52f78f1d582bf908bc1f087096c3726e73cbb9c7b88f8c1c7314f543"
+                      },
+                      {
+                          "path":  "1_Flexo/MyCups/PDF/_HB62-120_0000.pdf",
+                          "asset":  "f-eda7fad7b91eafc5.pdf",
+                          "size":  336586,
+                          "sha256":  "eda7fad7b91eafc5efc269f485064be1e3c769be7c3a6fbbfe51c598f61abfb2"
+                      },
+                      {
+                          "path":  "1_Flexo/MyCups/PDF/_HB70-180-0000.pdf",
+                          "asset":  "f-fb2a153f8f79d4ad.pdf",
+                          "size":  498226,
+                          "sha256":  "fb2a153f8f79d4adf2eaa15a2514bd97ed466e318f822a53609b2904eb69a5ea"
+                      },
+                      {
+                          "path":  "1_Flexo/MyCups/PDF/_HB70-195-0000.pdf",
+                          "asset":  "f-3ea7d4fef4470e4c.pdf",
+                          "size":  500412,
+                          "sha256":  "3ea7d4fef4470e4c440b563948e6dabf5248c0001ec97713dedf4e520e237d27"
+                      },
+                      {
+                          "path":  "1_Flexo/MyCups/PDF/_HB70-210-0000.pdf",
+                          "asset":  "f-ec857275fd3e550a.pdf",
+                          "size":  527330,
+                          "sha256":  "ec857275fd3e550a237d97d997a1adb36dd836ed6eb495548725fc8a3a98bb1a"
+                      },
+                      {
+                          "path":  "1_Flexo/MyCups/PDF/_HB72-205-0000.pdf",
+                          "asset":  "f-9da46178eed311e9.pdf",
+                          "size":  506866,
+                          "sha256":  "9da46178eed311e9278a7e4687d323423331c3996043f6b71c617581767a9a87"
+                      },
+                      {
+                          "path":  "1_Flexo/MyCups/PDF/_HB73-260_0000.pdf",
+                          "asset":  "f-4b63cad89997de2d.pdf",
+                          "size":  371197,
+                          "sha256":  "4b63cad89997de2d1ec620fc06d1879527a465ed6eec8116fa969dbc7db0122b"
+                      },
+                      {
+                          "path":  "1_Flexo/MyCups/PDF/_HB80-280-0000.pdf",
+                          "asset":  "f-43c750f8534e66e0.pdf",
+                          "size":  352440,
+                          "sha256":  "43c750f8534e66e0863fe91fe15f63f558c2c7ae630259d10592c22c477869d3"
+                      },
+                      {
+                          "path":  "1_Flexo/MyCups/PDF/_HB80-280-L-0000.pdf",
+                          "asset":  "f-dfdcfb6db6ed033b.pdf",
+                          "size":  352791,
+                          "sha256":  "dfdcfb6db6ed033b08c19ab80a93974adbcf533cabb85c0993bab8f2dfce2759"
+                      },
+                      {
+                          "path":  "1_Flexo/MyCups/PDF/_HB80-280v-0000.pdf",
+                          "asset":  "f-2e6d8826b154e928.pdf",
+                          "size":  352703,
+                          "sha256":  "2e6d8826b154e928b871e941b3fc093c5fa2dff7f750f88ca145526fa210f5ad"
+                      },
+                      {
+                          "path":  "1_Flexo/MyCups/PDF/_HB80-340-0000.pdf",
+                          "asset":  "f-190f4814355eeb30.pdf",
+                          "size":  517717,
+                          "sha256":  "190f4814355eeb30b632f22706363bf399beba88c2bfdeeba4ca2760ba82e4f0"
+                      },
+                      {
+                          "path":  "1_Flexo/MyCups/PDF/_HB80-360-0000.pdf",
+                          "asset":  "f-f18434c1bb98e363.pdf",
+                          "size":  526146,
+                          "sha256":  "f18434c1bb98e363dea071d2ec689c418eec4ca95dc645296d9f2b255f147838"
+                      },
+                      {
+                          "path":  "1_Flexo/MyCups/PDF/_HB90-430-0000.pdf",
+                          "asset":  "f-70feb0220ef6edc6.pdf",
+                          "size":  509563,
+                          "sha256":  "70feb0220ef6edc6fcb5cf25f5aa999e57c9ab4ab4a26909a09690982ef6fe4d"
+                      },
+                      {
+                          "path":  "1_Flexo/MyCups/PDF/_HB90-430-L-0000.pdf",
+                          "asset":  "f-235100c57d57bfa8.pdf",
+                          "size":  509805,
+                          "sha256":  "235100c57d57bfa8b2c972df61fb07d41c9a6236b62ce63bb37953da3580863b"
+                      },
+                      {
+                          "path":  "1_Flexo/MyCups/PDF/_HB90-530-0000.pdf",
+                          "asset":  "f-302bce1a7e87cb5a.pdf",
+                          "size":  511012,
+                          "sha256":  "302bce1a7e87cb5a8f3522223023f259c843357ce9cf4c12f2858f5abb99834a"
+                      },
+                      {
+                          "path":  "1_Flexo/MyCups/PDF/_HB90-630-0000.pdf",
+                          "asset":  "f-39a49cd84c114300.pdf",
+                          "size":  483270,
+                          "sha256":  "39a49cd84c114300aa22ed9a1d94400d95975895cb3b35c0a618f9e44b4d3ad1"
+                      },
+                      {
+                          "path":  "1_Flexo/PDF/CON75-0000.pdf",
+                          "asset":  "f-8788bd6a11c53d0e.pdf",
+                          "size":  380124,
+                          "sha256":  "8788bd6a11c53d0e5f8d5f310ed99dc3f4fe83b6c4c90363fe230007d1ac97ac"
+                      },
+                      {
+                          "path":  "1_Flexo/PDF/CON75-130.pdf",
+                          "asset":  "f-a8a6f02c7f45b9ac.pdf",
+                          "size":  361195,
+                          "sha256":  "a8a6f02c7f45b9acce991f2501b0400cb08bfdd6dd48a924dd5c6f22c8f72b67"
+                      },
+                      {
+                          "path":  "1_Flexo/PDF/HB90-630_500ml.pdf",
+                          "asset":  "f-fe1c65665c6c74a9.pdf",
+                          "size":  135558,
+                          "sha256":  "fe1c65665c6c74a9e07ea423165199c211d3b39a783440f5778af86bf077e1b6"
+                      },
+                      {
+                          "path":  "1_Flexo/PDF/_EM80-280-0000.pdf",
+                          "asset":  "f-47caa60d60dc6038.pdf",
+                          "size":  1653685,
+                          "sha256":  "47caa60d60dc6038e684887174bcb854ec178b55ceb29b130fd49b54ae4e4911"
+                      },
+                      {
+                          "path":  "1_Flexo/PDF/_EM90-430-0000.pdf",
+                          "asset":  "f-507817dfd8453e94.pdf",
+                          "size":  2242491,
+                          "sha256":  "507817dfd8453e9429a8693632bfc07799aa75246cc03b08af016665ab97b556"
+                      },
+                      {
+                          "path":  "1_Flexo/PDF/_EM90-530-0000.pdf",
+                          "asset":  "f-12448ed935f9bdf6.pdf",
+                          "size":  2114196,
+                          "sha256":  "12448ed935f9bdf61dadbabbc955cc51cec222f597bb03be98990bdf138fbe85"
+                      },
+                      {
+                          "path":  "2_Offset/_DW80-280-0000 MC_work.ai",
+                          "asset":  "f-49f08037caa91e69.ai",
+                          "size":  428530,
+                          "sha256":  "49f08037caa91e69838fb7b7821c5d19c4cf81ad0c1ae60f07e40f6ed7dd3042"
+                      },
+                      {
+                          "path":  "2_Offset/_DW90-430-0000 MC_work.ai",
+                          "asset":  "f-ef25c13ed0972916.ai",
+                          "size":  488808,
+                          "sha256":  "ef25c13ed097291680bf78d1425dd860d609775cd0ec079bedec8e9cf38ad37b"
+                      },
+                      {
+                          "path":  "2_Offset/_DW90-530-0000 MC_work.ai",
+                          "asset":  "f-9a43443072a9f433.ai",
+                          "size":  389945,
+                          "sha256":  "9a43443072a9f4331577e12ff2765c656cd596aeaafac18a4bbe52f856f4c482"
+                      },
+                      {
+                          "path":  "2_Offset/_EM80-280-0000 MC_work.ai",
+                          "asset":  "f-1afe649efdd7e87f.ai",
+                          "size":  1348148,
+                          "sha256":  "1afe649efdd7e87fc937c9c33bbe207382c208f27feb53bdce1224fe41d05c03"
+                      },
+                      {
+                          "path":  "2_Offset/_EM90-430-0000 MC_work.ai",
+                          "asset":  "f-40a50bce96654d2c.ai",
+                          "size":  689679,
+                          "sha256":  "40a50bce96654d2c04168addc14045d0fe6abd239e4f008033e19c315f7513a7"
+                      },
+                      {
+                          "path":  "2_Offset/_EM90-530-0000 MC_work.ai",
+                          "asset":  "f-01010a83ef910d24.ai",
+                          "size":  1957532,
+                          "sha256":  "01010a83ef910d243c650165025e19d57178b70861375e7d7d4ec839fc82e5c8"
+                      },
+                      {
+                          "path":  "2_Offset/HB/_HB80-280-0000_MC_work.ai",
+                          "asset":  "f-2a47c4caf5d95328.ai",
+                          "size":  355983,
+                          "sha256":  "2a47c4caf5d9532807ebcdc850d4db32ce1d0f7f1aa0ca252097b30385e2f13f"
+                      },
+                      {
+                          "path":  "2_Offset/HB/_HB90-430-0000_MC_work.ai",
+                          "asset":  "f-4db9fd0f9a446bf2.ai",
+                          "size":  357487,
+                          "sha256":  "4db9fd0f9a446bf2f1664338e5fa6ce9055eef8911c0fb6eefe1504aa4fb3f08"
+                      },
+                      {
+                          "path":  "2_Offset/HB/_HB90-530-0000_MC_work.ai",
+                          "asset":  "f-4791d97eb2db8b20.ai",
+                          "size":  349541,
+                          "sha256":  "4791d97eb2db8b20b087bf5bea7bb3fac06a05db25a687711130a12785f16754"
+                      },
+                      {
+                          "path":  "2_Offset/PDF/_EM80-280-0000 MC_work.pdf",
+                          "asset":  "f-12bd75efccf6b5f9.pdf",
+                          "size":  1471095,
+                          "sha256":  "12bd75efccf6b5f9f1e4676ccb5e1981071420f883fe7cc4f764fda7c2d650a0"
+                      },
+                      {
+                          "path":  "2_Offset/PDF/_EM90-430-0000 MC_work.pdf",
+                          "asset":  "f-b8e8a67581b90b92.pdf",
+                          "size":  1999365,
+                          "sha256":  "b8e8a67581b90b9295f478449eddbfdcc77ae69464a7e00c6e3dc256a5fc8525"
+                      },
+                      {
+                          "path":  "2_Offset/PDF/_EM90-530-0000 MC_work.pdf",
+                          "asset":  "f-400b5cab96a248f1.pdf",
+                          "size":  1934125,
+                          "sha256":  "400b5cab96a248f1652813e1045fd579b4edd88f7b6fe5d62f2474f1ebe425c0"
+                      },
+                      {
+                          "path":  "3_CupsToYou_Tr/_DW80-280-0000 MC_tr.ai",
+                          "asset":  "f-7dd8486766c962d2.ai",
+                          "size":  373376,
+                          "sha256":  "7dd8486766c962d2eeb3619d94614208cfcc367fd402a4740c03b898dee4cecc"
+                      },
+                      {
+                          "path":  "3_CupsToYou_Tr/_DW90-430-0000 MC_tr.ai",
+                          "asset":  "f-bdf68e1d7612c526.ai",
+                          "size":  460786,
+                          "sha256":  "bdf68e1d7612c52642147601b89e08408f1e6bbad6a1d693aff63b3e77998d4a"
+                      },
+                      {
+                          "path":  "3_CupsToYou_Tr/_EH80-280-0000_tr.ai",
+                          "asset":  "f-fa586ecacde3bbf6.ai",
+                          "size":  421797,
+                          "sha256":  "fa586ecacde3bbf6a105714202f048f06ee88d769c8d26b54afe80d00c987542"
+                      },
+                      {
+                          "path":  "3_CupsToYou_Tr/_EH90-430-0000_tr.ai",
+                          "asset":  "f-28fde74568853d57.ai",
+                          "size":  484340,
+                          "sha256":  "28fde74568853d57e529c6f48825a30322b1244f17dbba855ae07fea224824f9"
+                      },
+                      {
+                          "path":  "3_CupsToYou_Tr/_EM80-280-0000 MC_tr.ai",
+                          "asset":  "f-614f5a0ee9deafd9.ai",
+                          "size":  1316417,
+                          "sha256":  "614f5a0ee9deafd9fd036ccc73461bb2d5e7a5951f7a769f6ebfa07bb8fd35c7"
+                      },
+                      {
+                          "path":  "3_CupsToYou_Tr/_EM90-430-0000 MC_tr.ai",
+                          "asset":  "f-9e86aec8c765d473.ai",
+                          "size":  1807266,
+                          "sha256":  "9e86aec8c765d4738af69d66e465a69dfc619b0b97d347096cdd90d767ae1fa2"
+                      },
+                      {
+                          "path":  "3_CupsToYou_Tr/_HB80-280-0000 MC_tr.ai",
+                          "asset":  "f-96dc1ffd91242059.ai",
+                          "size":  320734,
+                          "sha256":  "96dc1ffd9124205974c4aec8b1eb9488a6e9c9be4c4eaafb97ed9f0db0170b1f"
+                      },
+                      {
+                          "path":  "3_CupsToYou_Tr/_HB90-430-0000 MC_tr.ai",
+                          "asset":  "f-cd026a031be6c768.ai",
+                          "size":  321916,
+                          "sha256":  "cd026a031be6c768c34b58da5574dae4f105425f065c9e1372205aeb5a3ee5ce"
+                      },
+                      {
+                          "path":  "3_CupsToYou_Tr/Paketera/HB80-280-250ml_ENG-EU_Paketera.ai",
+                          "asset":  "f-5d7b4bf0004df7a6.ai",
+                          "size":  293328,
+                          "sha256":  "5d7b4bf0004df7a6847e9f679eb4e5ad9706649c6fe375b5abde1ef16da4e31d"
+                      },
+                      {
+                          "path":  "3_CupsToYou_Tr/Paketera/HB80-280-250ml_tr_Paketera.ai",
+                          "asset":  "f-af330fb517936152.ai",
+                          "size":  322969,
+                          "sha256":  "af330fb517936152a6922a34f0b53a8ffa42239c76f33ee8cd4143fc4cef7cb9"
+                      },
+                      {
+                          "path":  "3_CupsToYou_Tr/Paketera/HB90-4300-300ml_ENG-EU_Paketera.ai",
+                          "asset":  "f-052491734ac03517.ai",
+                          "size":  294412,
+                          "sha256":  "052491734ac03517f193480e53d7c0fd75083a84451b89149b27cbfecded2040"
+                      },
+                      {
+                          "path":  "3_CupsToYou_Tr/Paketera/HB90-4300-300ml_tr_Paketera.ai",
+                          "asset":  "f-e8b5a6bc0541908b.ai",
+                          "size":  321879,
+                          "sha256":  "e8b5a6bc0541908bf9f83a0083c5ea5be43a03cf04673ce7fa08ab0fa5bd4e15"
+                      },
+                      {
+                          "path":  "3_CupsToYou_Tr/PDF/HB80-280-250ml_tr.pdf",
+                          "asset":  "f-f1a821f108bc7ce2.pdf",
+                          "size":  321145,
+                          "sha256":  "f1a821f108bc7ce26c0f57c50951a74219092c722fb562dbb7e082eafda29995"
+                      },
+                      {
+                          "path":  "3_CupsToYou_Tr/PDF/HB90-430-300ml_tr.pdf",
+                          "asset":  "f-031ed81554d824d4.pdf",
+                          "size":  321239,
+                          "sha256":  "031ed81554d824d4ad11fc3bcf7c23f20fffbf513a8214d8b172aecebeffdc61"
+                      },
+                      {
+                          "path":  "3_CupsToYou_Tr/PDF/_DW80-280-0000 MC_tr.pdf",
+                          "asset":  "f-52bbb5683f5ced29.pdf",
+                          "size":  373204,
+                          "sha256":  "52bbb5683f5ced29d7cf17f9c8e8e02bd48f3ce32d8962ea4a0ce0169d6826fd"
+                      },
+                      {
+                          "path":  "3_CupsToYou_Tr/PDF/_DW90-430-0000 MC_tr.pdf",
+                          "asset":  "f-51e7a6c44e6ffae1.pdf",
+                          "size":  460567,
+                          "sha256":  "51e7a6c44e6ffae13df29c0743d749dc1e82028055363b843625979d5521668e"
+                      },
+                      {
+                          "path":  "3_CupsToYou_Tr/PDF/_EH80-280-0000_tr.pdf",
+                          "asset":  "f-41718b2dfbb43220.pdf",
+                          "size":  453805,
+                          "sha256":  "41718b2dfbb432207d7d24ee8de8b7849975d6343374c879d5d4d714c7543ea8"
+                      },
+                      {
+                          "path":  "3_CupsToYou_Tr/PDF/_EH90-430-0000_tr.pdf",
+                          "asset":  "f-b839ac2138c58bee.pdf",
+                          "size":  484199,
+                          "sha256":  "b839ac2138c58beedbcadf86978dc91accd408db3cbd412f886c39149313df98"
+                      },
+                      {
+                          "path":  "3_CupsToYou_Tr/PDF/_EM80-280-0000 MC_tr.pdf",
+                          "asset":  "f-2bc69b0fd515330e.pdf",
+                          "size":  1432736,
+                          "sha256":  "2bc69b0fd515330eef90a131254c60aa4f86ee299229a6c08628aa70cb02738a"
+                      },
+                      {
+                          "path":  "3_CupsToYou_Tr/PDF/_EM90-430-0000 MC_tr.pdf",
+                          "asset":  "f-363e2162d7a144f3.pdf",
+                          "size":  1963100,
+                          "sha256":  "363e2162d7a144f3245aa34f0c665c2bdb4f5cdfdc98a8fbfeecb90c4843d2fe"
+                      },
+                      {
+                          "path":  "4_CupsToYou_De/_DW80-280-0000 MC_de.ai",
+                          "asset":  "f-48a8aeed75bf2797.ai",
+                          "size":  456210,
+                          "sha256":  "48a8aeed75bf279782a3439ae0e6a39e0991bf5f7a0c13e98da37c41d7c8bb9f"
+                      },
+                      {
+                          "path":  "4_CupsToYou_De/_DW90-430-0000 MC_de.ai",
+                          "asset":  "f-2c64a95a44daf9ff.ai",
+                          "size":  523687,
+                          "sha256":  "2c64a95a44daf9ffbbf9b7d5e4542c4a2632ff0018b122ba7072c1420ad040de"
+                      },
+                      {
+                          "path":  "4_CupsToYou_De/_EH80-280-0000_de.ai",
+                          "asset":  "f-e552f1be0d974d8a.ai",
+                          "size":  406013,
+                          "sha256":  "e552f1be0d974d8ad92c113aa5b0b76ace6cc055d43952b05ef9809e5dc3fb25"
+                      },
+                      {
+                          "path":  "4_CupsToYou_De/_EH90-430-0000_de.ai",
+                          "asset":  "f-3c209d4aeea70697.ai",
+                          "size":  479576,
+                          "sha256":  "3c209d4aeea70697b6d4d22f403982a6655405ef2708054032e927bbc81ee133"
+                      },
+                      {
+                          "path":  "4_CupsToYou_De/_EM80-280-0000 MC_de.ai",
+                          "asset":  "f-93dd82b093fa37b5.ai",
+                          "size":  1296818,
+                          "sha256":  "93dd82b093fa37b5fb07886cf0d57b0baa837d003d78c3adbe7ac131662f9279"
+                      },
+                      {
+                          "path":  "4_CupsToYou_De/_EM90-430-0000 MC_de.ai",
+                          "asset":  "f-3735e84d54a0288f.ai",
+                          "size":  1769777,
+                          "sha256":  "3735e84d54a0288f1d21d0e36172ff4524f9ce279044fc3e33aad956ed66e316"
+                      },
+                      {
+                          "path":  "4_CupsToYou_De/_HB80-280-0000 MC_de.ai",
+                          "asset":  "f-715a9ce4fbc4571c.ai",
+                          "size":  428426,
+                          "sha256":  "715a9ce4fbc4571ce6021d0fc730389777c7df361babb93a47db047da0c772ff"
+                      },
+                      {
+                          "path":  "4_CupsToYou_De/_HB90-430-0000 MC_de.ai",
+                          "asset":  "f-fcbd8bd05c4de164.ai",
+                          "size":  433000,
+                          "sha256":  "fcbd8bd05c4de16455ff88442edc0631746184d3847468240eacb6192e3b5c87"
+                      },
+                      {
+                          "path":  "4_CupsToYou_De/PDF/_DW90-430-0000 MC_de.pdf",
+                          "asset":  "f-76476df0cffccee9.pdf",
+                          "size":  453259,
+                          "sha256":  "76476df0cffccee944b52108972d6870782dd967539d8d803bf9cb1b5944f6cb"
+                      },
+                      {
+                          "path":  "4_CupsToYou_De/PDF/_EH80-280-0000-de.pdf",
+                          "asset":  "f-2684857a9cef2f6a.pdf",
+                          "size":  452645,
+                          "sha256":  "2684857a9cef2f6a80c619887062c4661f34f6d445f85918a06e666e0a98d849"
+                      },
+                      {
+                          "path":  "4_CupsToYou_De/PDF/_EH90-430-0000-de.pdf",
+                          "asset":  "f-df8ceb06e32de211.pdf",
+                          "size":  479361,
+                          "sha256":  "df8ceb06e32de211f4d2f0b3f3e7c9ebe97b1d0bb66472c4f4fe318b54d21d36"
+                      },
+                      {
+                          "path":  "4_CupsToYou_De/PDF/_EM80-280-0000 MC_de.pdf",
+                          "asset":  "f-322596d82c537426.pdf",
+                          "size":  1431957,
+                          "sha256":  "322596d82c537426e47c864f02bc46b38dd6b7b3e9e94936b6513b2d81ab27c7"
+                      },
+                      {
+                          "path":  "4_CupsToYou_De/PDF/_EM90-430-0000 MC_de.pdf",
+                          "asset":  "f-c0e39ef263b3004d.pdf",
+                          "size":  1945397,
+                          "sha256":  "c0e39ef263b3004d9dddaa420dc2d7c23b9267833d9fe7304d514f69e2e21de8"
+                      },
+                      {
+                          "path":  "4_CupsToYou_De/PDF/_HB80-280-0000_de.pdf",
+                          "asset":  "f-d03593be61a6fed2.pdf",
+                          "size":  428161,
+                          "sha256":  "d03593be61a6fed23de7f114a80c211f39e71ed9f650b2be274bce78ceb7d3ac"
+                      },
+                      {
+                          "path":  "4_CupsToYou_De/PDF/_HB90-430-0000_de.pdf",
+                          "asset":  "f-f2899299d34eda79.pdf",
+                          "size":  432708,
+                          "sha256":  "f2899299d34eda79d69bf482a62b062052fbf8718d4d92d358d8adf376968daf"
+                      },
+                      {
+                          "path":  "5_CupsToYou_En/HB80-280-250ml_ENG-EU.ai",
+                          "asset":  "f-adeb748498871ec8.ai",
+                          "size":  291794,
+                          "sha256":  "adeb748498871ec8145e99e7eb858180810561867444e7948fc7fc777bd2ae1a"
+                      },
+                      {
+                          "path":  "5_CupsToYou_En/HB90-430-300ml_ENG-EU.ai",
+                          "asset":  "f-2a125ad4e54aa3a0.ai",
+                          "size":  293861,
+                          "sha256":  "2a125ad4e54aa3a013c99e7c0c53b77a92122dbdfa8d2ec485e1bd967468da3f"
+                      },
+                      {
+                          "path":  "5_CupsToYou_En/_DW80-280-0000 MC_en.ai",
+                          "asset":  "f-fe38b461d85add52.ai",
+                          "size":  407078,
+                          "sha256":  "fe38b461d85add52429c9b5dba3487f1dbb8965a45f367e61044ea6a54550204"
+                      },
+                      {
+                          "path":  "5_CupsToYou_En/_DW90-430-0000 MC_en.ai",
+                          "asset":  "f-c47273a136424a9d.ai",
+                          "size":  565444,
+                          "sha256":  "c47273a136424a9d013fbd000e1b6fbc302c7aac5dd74f7d5edbe7ef88767b32"
+                      },
+                      {
+                          "path":  "5_CupsToYou_En/_EM80-280-0000 MC_en.ai",
+                          "asset":  "f-3fdff635f642a960.ai",
+                          "size":  1471330,
+                          "sha256":  "3fdff635f642a960097fe9b8af5d5bfa29ca82257f520d14d3309ed732a104be"
+                      },
+                      {
+                          "path":  "5_CupsToYou_En/_EM90-430-0000 MC_en.ai",
+                          "asset":  "f-b9773aebdb60fec3.ai",
+                          "size":  2068554,
+                          "sha256":  "b9773aebdb60fec312921e7b205f9e2faf50797074fdca2306e7ea8dea154eed"
+                      },
+                      {
+                          "path":  "5_CupsToYou_En/PDF/HB80-280-250ml_ENG-EU.pdf",
+                          "asset":  "f-89fe1220159ee98a.pdf",
+                          "size":  290584,
+                          "sha256":  "89fe1220159ee98a83369dec21d0d06344b2a8d082e6ece457b02fae377b85a9"
+                      },
+                      {
+                          "path":  "5_CupsToYou_En/PDF/HB90-430-300ml_ENG-EU.pdf",
+                          "asset":  "f-e403dec92ed86165.pdf",
+                          "size":  293605,
+                          "sha256":  "e403dec92ed861655f7dbb19acb62b7a26723bb3ba0893399b8e4eb843ccaed9"
+                      },
+                      {
+                          "path":  "6_CupsToYou_It/_DW80-280-0000 MC_it.ai",
+                          "asset":  "f-26de23629339ce99.ai",
+                          "size":  448911,
+                          "sha256":  "26de23629339ce9901ab40e89cf1f817d9abfc68c5be01b323224b5b626c6ce6"
+                      },
+                      {
+                          "path":  "6_CupsToYou_It/_DW90-430-0000 MC_it.ai",
+                          "asset":  "f-f400c6a3cb107f44.ai",
+                          "size":  526097,
+                          "sha256":  "f400c6a3cb107f442429d81af10b74a3cf71d63e32c6311e679b90c304f6e6ee"
+                      },
+                      {
+                          "path":  "6_CupsToYou_It/_EH80-280-0000-it.ai",
+                          "asset":  "f-02e770902a197903.ai",
+                          "size":  408875,
+                          "sha256":  "02e770902a197903f8cd45873efa8465e01bdc924a869c168ba734770ddc166e"
+                      },
+                      {
+                          "path":  "6_CupsToYou_It/_EH90-430-0000-it.ai",
+                          "asset":  "f-06feda71269cd58c.ai",
+                          "size":  476875,
+                          "sha256":  "06feda71269cd58ca567b2b8fc9a20342ee221eab447e2fcc87ec8a33a4b2256"
+                      },
+                      {
+                          "path":  "6_CupsToYou_It/_EM80-280-0000 MC_it.ai",
+                          "asset":  "f-3795db4f0e1abead.ai",
+                          "size":  1356751,
+                          "sha256":  "3795db4f0e1abead90c64f2b3cfbd09b592e9669556f5fa4ec96e98eaf933ed7"
+                      },
+                      {
+                          "path":  "6_CupsToYou_It/_EM90-430-0000 MC_it.ai",
+                          "asset":  "f-78e7830dbe9994f6.ai",
+                          "size":  1837094,
+                          "sha256":  "78e7830dbe9994f663c014d29722d34b5a640235dc377f7c7c6945f2ef60a3b7"
+                      },
+                      {
+                          "path":  "6_CupsToYou_It/_HB80-280-0000_it.ai",
+                          "asset":  "f-7278038f97b920b5.ai",
+                          "size":  412701,
+                          "sha256":  "7278038f97b920b561bad478d16f969ccb39f4fc10398f7c0d6abe169448005f"
+                      },
+                      {
+                          "path":  "6_CupsToYou_It/_HB90-430-0000_it.ai",
+                          "asset":  "f-316c2d2cdef595cf.ai",
+                          "size":  409811,
+                          "sha256":  "316c2d2cdef595cf1ccf1a4a81b9b9d43638aed0c9743692e7a99d897ba70182"
+                      },
+                      {
+                          "path":  "6_CupsToYou_It/PDF/_DW80-280-0000 MC_it.pdf",
+                          "asset":  "f-5acdc2f1b11e772b.pdf",
+                          "size":  445769,
+                          "sha256":  "5acdc2f1b11e772b6f053d5492f4a7b06ce181ed696d708fa25da2ee041664e9"
+                      },
+                      {
+                          "path":  "6_CupsToYou_It/PDF/_DW90-430-0000 MC_it.pdf",
+                          "asset":  "f-56e5ca4ec690b87d.pdf",
+                          "size":  530222,
+                          "sha256":  "56e5ca4ec690b87d54fcf558ac9973b91e6817e357c355b526b4294abe1b8980"
+                      },
+                      {
+                          "path":  "6_CupsToYou_It/PDF/_EH80-280-0000-it.pdf",
+                          "asset":  "f-b60f2692b6c823f5.pdf",
+                          "size":  456277,
+                          "sha256":  "b60f2692b6c823f56a953cd7ddf35005243f415ae632b022926947c9e4335b17"
+                      },
+                      {
+                          "path":  "6_CupsToYou_It/PDF/_EH90-430-0000-it.pdf",
+                          "asset":  "f-da458593dcfe0bdc.pdf",
+                          "size":  481453,
+                          "sha256":  "da458593dcfe0bdcaa3011f2f788c310556cfc5bd73c8eb873bee01126edbf63"
+                      },
+                      {
+                          "path":  "6_CupsToYou_It/PDF/_EM80-280-0000 MC_it.pdf",
+                          "asset":  "f-a92a65471da1a0a1.pdf",
+                          "size":  1512011,
+                          "sha256":  "a92a65471da1a0a14513f0a1e8f33081414c4f3089fbe03a70c81073c0f2a2bf"
+                      },
+                      {
+                          "path":  "6_CupsToYou_It/PDF/_EM90-430-0000 MC_it.pdf",
+                          "asset":  "f-7c572e7f8342600f.pdf",
+                          "size":  2034281,
+                          "sha256":  "7c572e7f8342600f9dfff7b866781ff1b5b9036dbf28e05ebca7ef2de62c16f9"
+                      },
+                      {
+                          "path":  "6_CupsToYou_It/PDF/_HB80-280-0000_it.pdf",
+                          "asset":  "f-e4699a77279846dd.pdf",
+                          "size":  412396,
+                          "sha256":  "e4699a77279846ddd4c4754fbd0c35691b275b9ebe9963de5e830bdbad138c1e"
+                      },
+                      {
+                          "path":  "6_CupsToYou_It/PDF/_HB90-430-0000_it.pdf",
+                          "asset":  "f-6613c41720e5c36c.pdf",
+                          "size":  409516,
+                          "sha256":  "6613c41720e5c36c7b4de87176646d9d027efc763facce4d9de6c5dba86136b6"
+                      },
+                      {
+                          "path":  "7_Plastic/BM90-410-V_work.ai",
+                          "asset":  "f-7123052fccb5737a.ai",
+                          "size":  321392,
+                          "sha256":  "7123052fccb5737a3938c5c6d12500ec7bdb14a4493a0b80f5bfbd4c90641935"
+                      },
+                      {
+                          "path":  "7_Plastic/BM90-410_work.ai",
+                          "asset":  "f-19b914e965181387.ai",
+                          "size":  319050,
+                          "sha256":  "19b914e9651813876dbeb971e5fbed018370a8c13f4f1a2f06a5b525156f5fe8"
+                      },
+                      {
+                          "path":  "7_Plastic/BM90-410_work.pdf",
+                          "asset":  "f-df48b0b6109d65f7.pdf",
+                          "size":  309688,
+                          "sha256":  "df48b0b6109d65f702139972988d8cf99339a46a8646b16ebe83c946b01a0d85"
+                      },
+                      {
+                          "path":  "7_Plastic/BM90-500-V_work.ai",
+                          "asset":  "f-a88becbbf218d3b9.ai",
+                          "size":  312415,
+                          "sha256":  "a88becbbf218d3b915238b2766ffbd90cdf26aea968caf4dbc064a61db1ada56"
+                      },
+                      {
+                          "path":  "7_Plastic/BM90-500_work.ai",
+                          "asset":  "f-66a42a2bebae5098.ai",
+                          "size":  311474,
+                          "sha256":  "66a42a2bebae50981bdee124335b7bd2c52c66720f31d2f801cda8c022e7c578"
+                      },
+                      {
+                          "path":  "7_Plastic/BM90-500_work.pdf",
+                          "asset":  "f-0baaf7f024c5fd43.pdf",
+                          "size":  311275,
+                          "sha256":  "0baaf7f024c5fd43d26c970eb8140dae9df349bcf036672385bb21879ad1f006"
+                      },
+                      {
+                          "path":  "7_Plastic/BM90-655-V_work.ai",
+                          "asset":  "f-e9c99d0ac7f1cebf.ai",
+                          "size":  317586,
+                          "sha256":  "e9c99d0ac7f1cebfd810d240826f47ab3e317b43ffb0f94a40d58a537d633a96"
+                      },
+                      {
+                          "path":  "7_Plastic/BM90-655_work.ai",
+                          "asset":  "f-887abffe93a4b566.ai",
+                          "size":  315157,
+                          "sha256":  "887abffe93a4b56620d2413c492261bab5759b3fd3253bf3dd970a18b623f562"
+                      },
+                      {
+                          "path":  "7_Plastic/BM90-655_work.pdf",
+                          "asset":  "f-907072688a3487f1.pdf",
+                          "size":  307993,
+                          "sha256":  "907072688a3487f173bfa3b34d384a7742476f607b624855c2d17a658f246a0d"
+                      },
+                      {
+                          "path":  "7_Plastic/PG95-400-P_work.ai",
+                          "asset":  "f-1d0b4182cc6f9786.ai",
+                          "size":  325568,
+                          "sha256":  "1d0b4182cc6f978643b62cb71a7549d6b95ae4c9273c2173f697135779418bba"
+                      },
+                      {
+                          "path":  "7_Plastic/PG95-400_work.ai",
+                          "asset":  "f-6b8b58001dad0bdc.ai",
+                          "size":  323005,
+                          "sha256":  "6b8b58001dad0bdc3f61abc1fc99bd14c453e11ef4b511156c38a94178382a15"
+                      },
+                      {
+                          "path":  "7_Plastic/PG95-400_work.pdf",
+                          "asset":  "f-ebc8b29cfa8dce3e.pdf",
+                          "size":  315356,
+                          "sha256":  "ebc8b29cfa8dce3ef423a230b5ec27a83e362fbee3a8db7f7dcc848ed0b0aff3"
+                      },
+                      {
+                          "path":  "7_Plastic/PG95-520-P_work.ai",
+                          "asset":  "f-38ff897b4792a1a5.ai",
+                          "size":  326811,
+                          "sha256":  "38ff897b4792a1a5fdc3f98594c16d92c500fd206ca97580e296f423887b31ae"
+                      },
+                      {
+                          "path":  "7_Plastic/PG95-520_work.ai",
+                          "asset":  "f-924557d47b8ddb0b.ai",
+                          "size":  324631,
+                          "sha256":  "924557d47b8ddb0b2673d98fbaaac05eeca312cd0286728526a353365a591647"
+                      },
+                      {
+                          "path":  "7_Plastic/PG95-520_work.pdf",
+                          "asset":  "f-55fb2ef97be2278a.pdf",
+                          "size":  316161,
+                          "sha256":  "55fb2ef97be2278a9588cd630ee9473e672e30878a999df0766c0338b8b11e64"
+                      },
+                      {
+                          "path":  "7_Plastic/PG95-600-P_work.ai",
+                          "asset":  "f-3e76a26b205cc6cd.ai",
+                          "size":  326719,
+                          "sha256":  "3e76a26b205cc6cdb59ebb549fd6be7a959d3b5eeeffe5ae36effbf48b74c028"
+                      },
+                      {
+                          "path":  "7_Plastic/PG95-600_work.ai",
+                          "asset":  "f-8f77279b410f7a08.ai",
+                          "size":  327064,
+                          "sha256":  "8f77279b410f7a085522ea642e024b3d723cd2c4bf10d7e0fd7fd6779c3467db"
+                      },
+                      {
+                          "path":  "7_Plastic/PG95-600_work.pdf",
+                          "asset":  "f-27f38024d18fe344.pdf",
+                          "size":  316037,
+                          "sha256":  "27f38024d18fe344c53d5745f74ff871d84a14c10f03e23c30c35b700dfb7a91"
+                      },
+                      {
+                          "path":  "7_Plastic/Bubble/JPG/BM90-410-V_work.jpg",
+                          "asset":  "f-1ba762a5ba05bed6.jpg",
+                          "size":  603952,
+                          "sha256":  "1ba762a5ba05bed6cd5cf427c5771cfd09933f5b63d3d7cb0db2b23a15b02e87"
+                      },
+                      {
+                          "path":  "7_Plastic/Bubble/JPG/BM90-500-V_work.jpg",
+                          "asset":  "f-0681a948520f2b9f.jpg",
+                          "size":  612869,
+                          "sha256":  "0681a948520f2b9f8c1f48da8359c88b7068d9bd05e1fc6c037bfadef8a8de8f"
+                      },
+                      {
+                          "path":  "7_Plastic/Bubble/JPG/BM90-655-V_work.jpg",
+                          "asset":  "f-b02933966732ef2f.jpg",
+                          "size":  656231,
+                          "sha256":  "b02933966732ef2f0a43cb3ea3e188ae008c4415c2979061bb65029e44e8c74b"
+                      },
+                      {
+                          "path":  "7_Plastic/Bubble/PDF/BM90-410-V_work.pdf",
+                          "asset":  "f-73d273b39250abca.pdf",
+                          "size":  311457,
+                          "sha256":  "73d273b39250abca8b607417c0e92c3b245ac09eed271e29f144838cdd844c63"
+                      },
+                      {
+                          "path":  "7_Plastic/Bubble/PDF/BM90-410_work.pdf",
+                          "asset":  "f-228134fb251cb906.pdf",
+                          "size":  310968,
+                          "sha256":  "228134fb251cb9065837e378bb9e5259b89f14b908f4ccd3638d9836f6095ab7"
+                      },
+                      {
+                          "path":  "7_Plastic/Bubble/PDF/BM90-500-V_work.pdf",
+                          "asset":  "f-d69136b0106c24e6.pdf",
+                          "size":  311226,
+                          "sha256":  "d69136b0106c24e6354a20be3a61593e5ebce2074b9fa47dceffdb80091bdb43"
+                      },
+                      {
+                          "path":  "7_Plastic/Bubble/PDF/BM90-500_work.pdf",
+                          "asset":  "f-4de65bc748f5da0e.pdf",
+                          "size":  311131,
+                          "sha256":  "4de65bc748f5da0e0edbd7dbb700687bbd008f4ecb24715e35cbc9a51f79a77f"
+                      },
+                      {
+                          "path":  "7_Plastic/Bubble/PDF/BM90-655-V_work.pdf",
+                          "asset":  "f-7e63a87623a49546.pdf",
+                          "size":  307562,
+                          "sha256":  "7e63a87623a49546c4ccc6d955dab379662518bcaa1b8431d27d22b910b495f3"
+                      },
+                      {
+                          "path":  "7_Plastic/Bubble/PDF/BM90-655_work.pdf",
+                          "asset":  "f-48cb2c1450737b76.pdf",
+                          "size":  307010,
+                          "sha256":  "48cb2c1450737b76b21903ec24c0ffddfa4811389d594bfa83f7d15af45ee9c2"
+                      },
+                      {
+                          "path":  "7_Plastic/PET/JPG/PG95-400-P_work.jpg",
+                          "asset":  "f-8309f957740c9921.jpg",
+                          "size":  636536,
+                          "sha256":  "8309f957740c9921b274f4f78b4c05b1c07b083ca56dc32c4cd7adfbd5a58c7d"
+                      },
+                      {
+                          "path":  "7_Plastic/PET/JPG/PG95-520-P_work.jpg",
+                          "asset":  "f-66f6aeddfcffad83.jpg",
+                          "size":  663779,
+                          "sha256":  "66f6aeddfcffad83c0ec0183d32f9e4ecbaf966ccb4a1b353872ac5f7885850d"
+                      },
+                      {
+                          "path":  "7_Plastic/PET/JPG/PG95-600-P_work.jpg",
+                          "asset":  "f-30fb9022c2d6c16d.jpg",
+                          "size":  664713,
+                          "sha256":  "30fb9022c2d6c16d199d529255a2b3139769c221cb6d19bc365f425c1baaac7b"
+                      },
+                      {
+                          "path":  "7_Plastic/PET/PDF/PG95-400-P_work.pdf",
+                          "asset":  "f-25344b0660b76a26.pdf",
+                          "size":  318671,
+                          "sha256":  "25344b0660b76a26e48802c3108c33bf8a906985c574708718541ae3bd07bbe5"
+                      },
+                      {
+                          "path":  "7_Plastic/PET/PDF/PG95-400_work.pdf",
+                          "asset":  "f-8240fc48ead6c0cb.pdf",
+                          "size":  316025,
+                          "sha256":  "8240fc48ead6c0cb646a11e861c1e5e227b6b3c66e0c92d11af60ec0ba313de6"
+                      },
+                      {
+                          "path":  "7_Plastic/PET/PDF/PG95-520-P_work.pdf",
+                          "asset":  "f-dc68a46256964a71.pdf",
+                          "size":  318628,
+                          "sha256":  "dc68a46256964a71da4acf91e8b052f2e25f0db587297f7ee890314507b239c3"
+                      },
+                      {
+                          "path":  "7_Plastic/PET/PDF/PG95-520_work.pdf",
+                          "asset":  "f-ab521d988e3105f9.pdf",
+                          "size":  317689,
+                          "sha256":  "ab521d988e3105f90da4fcb8d58230d1f3147159782e89e947d693374618af77"
+                      },
+                      {
+                          "path":  "7_Plastic/PET/PDF/PG95-600-P_work.pdf",
+                          "asset":  "f-4c41735937ad72b7.pdf",
+                          "size":  316783,
+                          "sha256":  "4c41735937ad72b76fc885d0acb66159cb7a1221a4c0c4d6fe2a6296b807ea36"
+                      },
+                      {
+                          "path":  "7_Plastic/PET/PDF/PG95-600_work.pdf",
+                          "asset":  "f-ece755b48e4b6f58.pdf",
+                          "size":  318289,
+                          "sha256":  "ece755b48e4b6f5890be5feb21f3ae873142a88c3206b065483be6575a659e94"
+                      },
+                      {
+                          "path":  "8_Choko/CHOKO_Dark.ai",
+                          "asset":  "f-aef8b54eb99f48e0.ai",
+                          "size":  495847,
+                          "sha256":  "aef8b54eb99f48e09b01408d9349b883997624a4cf2c21917ba78b09d880ab08"
+                      },
+                      {
+                          "path":  "8_Choko/CHOKO_Dark.pdf",
+                          "asset":  "f-6935fa7195341157.pdf",
+                          "size":  495849,
+                          "sha256":  "6935fa71953411579fae2184919fcd9340d9a326841d50a2aff80e83b45d44b0"
+                      },
+                      {
+                          "path":  "8_Choko/CHOKO_Milk.ai",
+                          "asset":  "f-812b23866cc78082.ai",
+                          "size":  516915,
+                          "sha256":  "812b23866cc7808272eac726a31558676f0e33c8fc706dc99bd39afd01f39f6a"
+                      },
+                      {
+                          "path":  "8_Choko/CHOKO_Milk.pdf",
+                          "asset":  "f-4ca35b8bea94d367.pdf",
+                          "size":  516917,
+                          "sha256":  "4ca35b8bea94d36743f1bea46a8d95aa0264fd57b6e54d50e8b1a9764ca2d584"
+                      },
+                      {
+                          "path":  "8_Choko/CHOKO_Orange.ai",
+                          "asset":  "f-bef5cfd2fd4c9703.ai",
+                          "size":  595844,
+                          "sha256":  "bef5cfd2fd4c97033e509899f7b552e01be6dbe71551d5fd851b25bd6566fa97"
+                      },
+                      {
+                          "path":  "8_Choko/CHOKO_Orange.pdf",
+                          "asset":  "f-dd524cf72aa77f77.pdf",
+                          "size":  595846,
+                          "sha256":  "dd524cf72aa77f772057cd1d762f0c13767ceede6101669f7734d0b7732e7f9b"
+                      },
+                      {
+                          "path":  "8_Choko/CHOKO_Strawberry.ai",
+                          "asset":  "f-976bf58a0aa2790d.ai",
+                          "size":  595673,
+                          "sha256":  "976bf58a0aa2790ddb6b5c87089d84f36573d12637c8bd74ecd78aca87db9d9a"
+                      },
+                      {
+                          "path":  "8_Choko/CHOKO_Strawberry.pdf",
+                          "asset":  "f-394766d1c1381798.pdf",
+                          "size":  595675,
+                          "sha256":  "394766d1c1381798b2c4310e0a03a389791ff69b2a878aae2e45e196f073b62e"
+                      },
+                      {
+                          "path":  "8_Choko/CHOKO_White.ai",
+                          "asset":  "f-0fb5bfee3db35629.ai",
+                          "size":  368862,
+                          "sha256":  "0fb5bfee3db35629223bdc8bf3c1e4e348a645418068c7b4f4aa967f4e2e7eb5"
+                      },
+                      {
+                          "path":  "8_Choko/CHOKO_White.pdf",
+                          "asset":  "f-ef6f13ab4c983833.pdf",
+                          "size":  368864,
+                          "sha256":  "ef6f13ab4c983833a61e1bd3eba7c2e97823c99c56e05d6b4624abc3dfe7df1a"
+                      },
+                      {
+                          "path":  "8_Choko/SWEET AS.ai",
+                          "asset":  "f-fdd51a68236b5830.ai",
+                          "size":  546636,
+                          "sha256":  "fdd51a68236b583051e65d2ccc2c60906b9cb61c846ddb015f58b0dd1f3cf4ad"
+                      },
+                      {
+                          "path":  "8_Choko/SWEET D.ai",
+                          "asset":  "f-a937b9d845269ee2.ai",
+                          "size":  546408,
+                          "sha256":  "a937b9d845269ee26000c575ad3b2826219c19059ac4d13e6ceda849cc5d8424"
+                      },
+                      {
+                          "path":  "9_Sugar/SUGAR-SH-P.ai",
+                          "asset":  "f-c041ee588da15f87.ai",
+                          "size":  376258,
+                          "sha256":  "c041ee588da15f871a38eb68bfc4ad21530591fa9bddad4e5dbc1940b446a215"
+                      },
+                      {
+                          "path":  "9_Sugar/SUGAR-SH.ai",
+                          "asset":  "f-c041ee588da15f87.ai",
+                          "size":  376258,
+                          "sha256":  "c041ee588da15f871a38eb68bfc4ad21530591fa9bddad4e5dbc1940b446a215"
+                      },
+                      {
+                          "path":  "9_Sugar/SUGAR-SH.pdf",
+                          "asset":  "f-8dc035296217919f.pdf",
+                          "size":  376029,
+                          "sha256":  "8dc035296217919f1d1eeca46757fa4adea1510d2242f85bfe6f64d8a8070102"
+                      },
+                      {
+                          "path":  "9_Sugar/SUGAR-SH_Horiz.ai",
+                          "asset":  "f-bf2806fb8ce4fac7.ai",
+                          "size":  371530,
+                          "sha256":  "bf2806fb8ce4fac730d6438093e07a37b016acc491cb6cc519282a46452ffba3"
+                      },
+                      {
+                          "path":  "9_Sugar/SUGAR-ST-P.ai",
+                          "asset":  "f-7155acae275b349e.ai",
+                          "size":  378257,
+                          "sha256":  "7155acae275b349eaa36ae2070029f1ee60456f981acf126dc80c14d73d264ad"
+                      },
+                      {
+                          "path":  "9_Sugar/SUGAR-ST.ai",
+                          "asset":  "f-7155acae275b349e.ai",
+                          "size":  378257,
+                          "sha256":  "7155acae275b349eaa36ae2070029f1ee60456f981acf126dc80c14d73d264ad"
+                      },
+                      {
+                          "path":  "9_Sugar/SUGAR-ST.pdf",
+                          "asset":  "f-f609f9af453c3275.pdf",
+                          "size":  378023,
+                          "sha256":  "f609f9af453c327579866802e96f2ae67425ba05eae3a1d695f72507e84da237"
+                      },
+                      {
+                          "path":  "Kraft/Kraft.pdf",
+                          "asset":  "f-f9e161803db9bfb3.pdf",
+                          "size":  16601615,
+                          "sha256":  "f9e161803db9bfb3558255320bb29648fca885e23b753fa7037f57381e8684a3"
+                      },
+                      {
+                          "path":  "Kraft/Крафт1+5.jpg",
+                          "asset":  "f-dcc356efa29fe8d0.jpg",
+                          "size":  1719487,
+                          "sha256":  "dcc356efa29fe8d00d39ba60e9249df4c535af72727a6f34044e42e240c1a1c5"
+                      },
+                      {
+                          "path":  "Kraft/Крафт1-10.jpg",
+                          "asset":  "f-1b4c84a2bfe3f145.jpg",
+                          "size":  1671333,
+                          "sha256":  "1b4c84a2bfe3f145adb3d21c6ff39326fd8d6d0bc44c30e85149414b98cea884"
+                      },
+                      {
+                          "path":  "Kraft/Крафт1-15.jpg",
+                          "asset":  "f-68133c9a52395e0e.jpg",
+                          "size":  1664513,
+                          "sha256":  "68133c9a52395e0edfd20b88e2d70f6b84b29c560475267cb12e82074bebae02"
+                      },
+                      {
+                          "path":  "Kraft/Крафт1-20.jpg",
+                          "asset":  "f-731461bc90dbfb86.jpg",
+                          "size":  1509239,
+                          "sha256":  "731461bc90dbfb862af07a9b54f49091c7ea0aa6a9391bc541135ce7f0720d03"
+                      },
+                      {
+                          "path":  "Kraft/Крафт1-5.jpg",
+                          "asset":  "f-303eb133d3955dbf.jpg",
+                          "size":  1686909,
+                          "sha256":  "303eb133d3955dbf00c715042f2a516f4a626cb30ebd5775add3bf141913c463"
+                      },
+                      {
+                          "path":  "Kraft/Крафт1.jpg",
+                          "asset":  "f-2ef032184eb0df09.jpg",
+                          "size":  1070205,
+                          "sha256":  "2ef032184eb0df0961d1ffef433d9a3882228fbe3415603ed09864c911aa3505"
+                      },
+                      {
+                          "path":  "Kraft/Пример крафт.jpg",
+                          "asset":  "f-038bdd2bb65f033b.jpg",
+                          "size":  97049,
+                          "sha256":  "038bdd2bb65f033b9e84352865bb3cca1dc5c5682c39aedc87fa00875c07985c"
+                      },
+                      {
+                          "path":  "Scripts/0_DW_Start.jsx",
+                          "asset":  "f-8a9fd52c496f6c8f.jsx",
+                          "size":  10112,
+                          "sha256":  "8a9fd52c496f6c8fa633d12f2978dc4205948ea1033ce148f6c980fba40ea9d7"
+                      },
+                      {
+                          "path":  "Scripts/1_DW_Export_new.jsx",
+                          "asset":  "f-b4119bd9f978de63.jsx",
+                          "size":  4770,
+                          "sha256":  "b4119bd9f978de63ff8448d987525148b15044b106f9e8722d3bc30159991fe2"
+                      },
+                      {
+                          "path":  "Scripts/2_FlexoForm_OLD.jsx",
+                          "asset":  "f-11380b86e6a620f2.jsx",
+                          "size":  12527,
+                          "sha256":  "11380b86e6a620f2fb02c9999fd41288a32e54606de17db86b7b0cd3c7c2257a"
+                      },
+                      {
+                          "path":  "Scripts/3_FlexoForm_NEW.jsx",
+                          "asset":  "f-4ac8f1d1b8fe4e93.jsx",
+                          "size":  12521,
+                          "sha256":  "4ac8f1d1b8fe4e9358035f359acf1bad8b11e816e7b3618a6074048c58a0292a"
+                      },
+                      {
+                          "path":  "Scripts/flexo-formatter.html",
+                          "asset":  "f-d84078b516d7c4a3.html",
+                          "size":  35704,
+                          "sha256":  "d84078b516d7c4a37d777d6d6954af3cf18dd7339666773a732f1fef82041926"
+                      },
+                      {
+                          "path":  "Scripts/Pantone_CMYK_Analog.jsx",
+                          "asset":  "f-2fed2ca72614b3cb.jsx",
+                          "size":  11101,
+                          "sha256":  "2fed2ca72614b3cbe175fcd8acdf85a5a004e3fb392fe24acc4d8c66a953e30d"
+                      },
+                      {
+                          "path":  "Scripts/CMYK/index.html",
+                          "asset":  "f-6f72fc76b285c09d.html",
+                          "size":  23270,
+                          "sha256":  "6f72fc76b285c09dc9be7ee048438d3326b9ea58074faf8c96c5612b0d13d765"
+                      },
+                      {
+                          "path":  "Scripts/CMYK/jsColorEngineWeb.js",
+                          "asset":  "f-734b2186ee71da1d.js",
+                          "size":  172861,
+                          "sha256":  "734b2186ee71da1d0817b1936a5823280cf4240dfc1a75d4fd73b4bb93fa584b"
+                      },
+                      {
+                          "path":  "Scripts/CMYK/PSOcoated_v3.icc",
+                          "asset":  "f-c30ad2c01e8f9313.icc",
+                          "size":  2195228,
+                          "sha256":  "c30ad2c01e8f93135ec7682c535e0a81bc2d177c301e196376c5f5838b5c8e86"
+                      },
+                      {
+                          "path":  "Scripts/PANTONE/corel_xml_to_ase_cmyk.py",
+                          "asset":  "f-68e3bd1239b9eeb9.py",
+                          "size":  7049,
+                          "sha256":  "68e3bd1239b9eeb9841bd9cd12c50bcd64ed31ef91af58adf8cde32177180098"
+                      },
+                      {
+                          "path":  "Scripts/PANTONE/index.html",
+                          "asset":  "f-6c3d1e600ddc8020.html",
+                          "size":  17992,
+                          "sha256":  "6c3d1e600ddc8020d732619f1bc33a2ebfa70fce1b6c7b7b998bc59f87d921cf"
+                      },
+                      {
+                          "path":  "Scripts/PANTONE/PantonePlusColorBridgeCoated.xml",
+                          "asset":  "f-a2947a35b7c77434.xml",
+                          "size":  1000252,
+                          "sha256":  "a2947a35b7c774346d633e32574f3f21d7313856b09c49324d57c0f63d3b55a8"
+                      },
+                      {
+                          "path":  "Scripts/PANTONE/PantonePlusColorBridgeUncoated.xml",
+                          "asset":  "f-6c5e14851e72facc.xml",
+                          "size":  1003848,
+                          "sha256":  "6c5e14851e72facca0c97a167c4fa19c57d4b123d906264630243f2fa057ca44"
+                      },
+                      {
+                          "path":  "Scripts/PANTONE/PantonePlusColorBridgeUncoated_CMYK_SPOT.ase",
+                          "asset":  "f-53d114347fa2d301.ase",
+                          "size":  112802,
+                          "sha256":  "53d114347fa2d301464e83ef81febbd46c168559c62f2c3e5ba400e3a9fb7990"
+                      },
+                      {
+                          "path":  "Scripts/PANTONE/PantonePlusColorBridgeСoated_CMYK_SPOT.ase",
+                          "asset":  "f-9ad8d1201ac8b278.ase",
+                          "size":  112798,
+                          "sha256":  "9ad8d1201ac8b278e8f950c67e6ede1b69cbd9a45d3b6202479cf038301aa176"
+                      }
+                  ]
+}
