@@ -1,4 +1,12 @@
 {
+    "generated":  "2026-07-30T10:51:45",
+    "app":  {
+                "version":  "3.0.0",
+                "notes":  "",
+                "asset":  "app-3.0.0.exe",
+                "size":  73324449,
+                "sha256":  "ced3e9ab9dc5eae115a4cd0afb3ff5f7cac26dca7128574156591acbaa02a223"
+            },
     "catalog":  {
                     "path":  "catalog.json",
                     "asset":  "f-af1700f7241a6fbb.json",
@@ -269,6 +277,12 @@
                           "asset":  "f-8bc54bd72197f3ab.pdf",
                           "size":  322809,
                           "sha256":  "8bc54bd72197f3ab4b4429b9f503ff284936931dd5dc6af13f736fc8838c78a0"
+                      },
+                      {
+                          "path":  "11_Bag/под вопросом/_BH-E320-320-180-0000.ai",
+                          "asset":  "f-ac44900a3cd388cc.ai",
+                          "size":  328558,
+                          "sha256":  "ac44900a3cd388cca88608c08143848d2445365afc0365e4e6198c4bdcecadd3"
                       },
                       {
                           "path":  "1_Flexo/CON75-130-000000.ai",
@@ -1009,6 +1023,90 @@
                           "sha256":  "cd026a031be6c768c34b58da5574dae4f105425f065c9e1372205aeb5a3ee5ce"
                       },
                       {
+                          "path":  "3_CupsToYou_Tr/OLD/PDF/HB80-280-250ml_ENG-EU.pdf",
+                          "asset":  "f-7c280ed9ac80254a.pdf",
+                          "size":  290533,
+                          "sha256":  "7c280ed9ac80254ac463b23858f2ef49496efed738b98a41e392c0d9e31cb5b7"
+                      },
+                      {
+                          "path":  "3_CupsToYou_Tr/OLD/PDF/HB80-280-250ml_ENG-EU_Paketera.pdf",
+                          "asset":  "f-f1f1958c8ffc5c0c.pdf",
+                          "size":  293130,
+                          "sha256":  "f1f1958c8ffc5c0cc565faecdde99c8cedac05b2194533e431cf1091ab207404"
+                      },
+                      {
+                          "path":  "3_CupsToYou_Tr/OLD/PDF/HB80-280-250ml_tr.pdf",
+                          "asset":  "f-482b74462477b1ef.pdf",
+                          "size":  320432,
+                          "sha256":  "482b74462477b1ef391bf181e6dc44046d24329bda0a3d936419925ef23cb553"
+                      },
+                      {
+                          "path":  "3_CupsToYou_Tr/OLD/PDF/HB80-280-250ml_tr_Paketera.pdf",
+                          "asset":  "f-a8d5babb8d292129.pdf",
+                          "size":  322702,
+                          "sha256":  "a8d5babb8d292129e45b817d624d86ab85e426acb94a4276a64aa31aa9d3e3d7"
+                      },
+                      {
+                          "path":  "3_CupsToYou_Tr/OLD/PDF/HB90-430-300ml_ENG-EU.pdf",
+                          "asset":  "f-18704803f17c1e91.pdf",
+                          "size":  292995,
+                          "sha256":  "18704803f17c1e91aa7651cda885c908351c9ad0cd34daed173ae8ac444b4832"
+                      },
+                      {
+                          "path":  "3_CupsToYou_Tr/OLD/PDF/HB90-430-300ml_tr.pdf",
+                          "asset":  "f-7afc8eb23fafa840.pdf",
+                          "size":  320524,
+                          "sha256":  "7afc8eb23fafa8401f99edf9d6d9d5769e1e2f403fbd89a030cb370e3ae426b4"
+                      },
+                      {
+                          "path":  "3_CupsToYou_Tr/OLD/PDF/HB90-4300-300ml_ENG-EU_Paketera.pdf",
+                          "asset":  "f-1b9ad6eebcf8667d.pdf",
+                          "size":  293551,
+                          "sha256":  "1b9ad6eebcf8667db01e3a3314562e31e62af198d44f50abda9debbe2a6ec077"
+                      },
+                      {
+                          "path":  "3_CupsToYou_Tr/OLD/PDF/HB90-4300-300ml_tr_Paketera.pdf",
+                          "asset":  "f-e7f4be19ce5c1ae2.pdf",
+                          "size":  321582,
+                          "sha256":  "e7f4be19ce5c1ae244e1ba4d011a537efb28191d1791f945644f402fe5d02a0a"
+                      },
+                      {
+                          "path":  "3_CupsToYou_Tr/OLD/PDF/_DW80-280-0000 MC_turk.pdf",
+                          "asset":  "f-96b7480ce17cb5a4.pdf",
+                          "size":  362390,
+                          "sha256":  "96b7480ce17cb5a4b57a5bc400dd10206fed1b59627e8517f77d3f4fa9d34bd5"
+                      },
+                      {
+                          "path":  "3_CupsToYou_Tr/OLD/PDF/_DW90-430-0000 MC_turk.pdf",
+                          "asset":  "f-993355bdb7b56917.pdf",
+                          "size":  449753,
+                          "sha256":  "993355bdb7b569173381383ccc9da4fd04ad3bdc0fdf6df1c78128c03a907529"
+                      },
+                      {
+                          "path":  "3_CupsToYou_Tr/OLD/PDF/_EH80-280-0000-turk.pdf",
+                          "asset":  "f-e7929104cf828028.pdf",
+                          "size":  551720,
+                          "sha256":  "e7929104cf82802816140e39dbffa8403c55ee25a8079aaed236255ff7b3e5f3"
+                      },
+                      {
+                          "path":  "3_CupsToYou_Tr/OLD/PDF/_EH90-430-0000-turk.pdf",
+                          "asset":  "f-af5b48c671d07b29.pdf",
+                          "size":  479196,
+                          "sha256":  "af5b48c671d07b2999ebcd3e0df8c4c8de881357047295f8f79cf32e764a6e3a"
+                      },
+                      {
+                          "path":  "3_CupsToYou_Tr/OLD/PDF/_EM80-280-0000 MC_turk.pdf",
+                          "asset":  "f-b23dc84dde1abe62.pdf",
+                          "size":  1396608,
+                          "sha256":  "b23dc84dde1abe62fcba56c4641a58cf85bcbc67ebc12b82992e35f17643c7a2"
+                      },
+                      {
+                          "path":  "3_CupsToYou_Tr/OLD/PDF/_EM90-430-0000 MC_turk.pdf",
+                          "asset":  "f-7e16ba3f4f8c1537.pdf",
+                          "size":  1945787,
+                          "sha256":  "7e16ba3f4f8c1537b3a9e2b98f2f02cea3543e815686e54d07dde855a624b513"
+                      },
+                      {
                           "path":  "3_CupsToYou_Tr/Paketera/HB80-280-250ml_ENG-EU_Paketera.ai",
                           "asset":  "f-5d7b4bf0004df7a6.ai",
                           "size":  293328,
@@ -1184,15 +1282,15 @@
                       },
                       {
                           "path":  "5_CupsToYou_En/_DW80-280-0000 MC_en.ai",
-                          "asset":  "f-fe38b461d85add52.ai",
-                          "size":  407078,
-                          "sha256":  "fe38b461d85add52429c9b5dba3487f1dbb8965a45f367e61044ea6a54550204"
+                          "asset":  "f-2d1b59347c6f7955.ai",
+                          "size":  407122,
+                          "sha256":  "2d1b59347c6f79556860df8494a1a0957fe29039b2266dcb530bf88e0af66b3c"
                       },
                       {
                           "path":  "5_CupsToYou_En/_DW90-430-0000 MC_en.ai",
-                          "asset":  "f-c47273a136424a9d.ai",
-                          "size":  565444,
-                          "sha256":  "c47273a136424a9d013fbd000e1b6fbc302c7aac5dd74f7d5edbe7ef88767b32"
+                          "asset":  "f-87c726291ee05512.ai",
+                          "size":  572877,
+                          "sha256":  "87c726291ee0551286d3ec531ead8aaec1f6bb1c2035237cf1a1fdd6940544ec"
                       },
                       {
                           "path":  "5_CupsToYou_En/_EM80-280-0000 MC_en.ai",
@@ -1217,6 +1315,78 @@
                           "asset":  "f-e403dec92ed86165.pdf",
                           "size":  293605,
                           "sha256":  "e403dec92ed861655f7dbb19acb62b7a26723bb3ba0893399b8e4eb843ccaed9"
+                      },
+                      {
+                          "path":  "5_CupsToYou_En/Не готово/DW90-530-400ml_ENG-EU.ai",
+                          "asset":  "f-b4d043c0502eca5d.ai",
+                          "size":  347148,
+                          "sha256":  "b4d043c0502eca5d43f326090b93fd6b11d6692eb0e801da58491fb761ad730c"
+                      },
+                      {
+                          "path":  "5_CupsToYou_En/Не готово/EM80-280-250ml_ENG-EU.ai",
+                          "asset":  "f-112a5a6f8f7c9c01.ai",
+                          "size":  1460929,
+                          "sha256":  "112a5a6f8f7c9c018cc0f1bed7576cf3eca55ebce2d4309a3e56dcab4d4e7a79"
+                      },
+                      {
+                          "path":  "5_CupsToYou_En/Не готово/EM90-430-300ml_ENG-EU.ai",
+                          "asset":  "f-54007fea985ac459.ai",
+                          "size":  2058136,
+                          "sha256":  "54007fea985ac459150dff774b75f97029391f4abd6b95b53b94b00edcc7cc86"
+                      },
+                      {
+                          "path":  "5_CupsToYou_En/Не готово/EM90-530-400ml_ENG-EU.ai",
+                          "asset":  "f-8eb1aca70e72eba9.ai",
+                          "size":  1957490,
+                          "sha256":  "8eb1aca70e72eba98efe2fd9b53d9517c054951e61a728cbd06fc18196fbe21f"
+                      },
+                      {
+                          "path":  "5_CupsToYou_En/Не готово/HB62-120-100ml_ENG-EU.ai",
+                          "asset":  "f-71e63b773d41e0a3.ai",
+                          "size":  350769,
+                          "sha256":  "71e63b773d41e0a3b964c6030dbc0a2c5b046bf348021c172b5725d0a77eb2cc"
+                      },
+                      {
+                          "path":  "5_CupsToYou_En/Не готово/HB70-180-150ml_ENG-EU.ai",
+                          "asset":  "f-475e3240a4528367.ai",
+                          "size":  371027,
+                          "sha256":  "475e3240a452836725978b6e343530267afda94124d498fbeb225576738d6309"
+                      },
+                      {
+                          "path":  "5_CupsToYou_En/Не готово/HB70-195-165ml_ENG-EU.ai",
+                          "asset":  "f-c23120af1446cdae.ai",
+                          "size":  322417,
+                          "sha256":  "c23120af1446cdae0fd2ccccb767db65417f21d5a614ec93c4becd02f7021257"
+                      },
+                      {
+                          "path":  "5_CupsToYou_En/Не готово/HB70-210-180ml_ENG-EU.ai",
+                          "asset":  "f-125d83a1f4d990a0.ai",
+                          "size":  373803,
+                          "sha256":  "125d83a1f4d990a0d1cc1cd06b31f0cf70ebb810d115783c7d8792cb944c5619"
+                      },
+                      {
+                          "path":  "5_CupsToYou_En/Не готово/HB80-280-250ml_ENG-EU.ai",
+                          "asset":  "f-7aff52ab1100dfa5.ai",
+                          "size":  358532,
+                          "sha256":  "7aff52ab1100dfa5b7385e9ac20fc78df166060ffad25615acd71dd82369de16"
+                      },
+                      {
+                          "path":  "5_CupsToYou_En/Не готово/HB80-360-300ml_ENG-EU.ai",
+                          "asset":  "f-7182953c0f4935fc.ai",
+                          "size":  370884,
+                          "sha256":  "7182953c0f4935fc72212c44cd846f233ca2b2f2c79f6db36638912f71c95b3a"
+                      },
+                      {
+                          "path":  "5_CupsToYou_En/Не готово/HB90-430-300ml_ENG-EU.ai",
+                          "asset":  "f-2a2523a5e1e8bc4f.ai",
+                          "size":  372562,
+                          "sha256":  "2a2523a5e1e8bc4fd68bfb1e17853048f7befe97a756bc9292c758853f609762"
+                      },
+                      {
+                          "path":  "5_CupsToYou_En/Не готово/HB90-530_400ml_ENG-EU.ai",
+                          "asset":  "f-0a2417d9e414bd89.ai",
+                          "size":  379884,
+                          "sha256":  "0a2417d9e414bd89f79e85c1f17d0b440064c3bdb3eb46ca65ed16fcc0499b78"
                       },
                       {
                           "path":  "6_CupsToYou_It/_DW80-280-0000 MC_it.ai",
@@ -1645,6 +1815,42 @@
                           "sha256":  "f609f9af453c327579866802e96f2ae67425ba05eae3a1d695f72507e84da237"
                       },
                       {
+                          "path":  "9_Sugar/Arhive/SUGAR-ST-P.ai",
+                          "asset":  "f-8646bc6b5a325a90.ai",
+                          "size":  326027,
+                          "sha256":  "8646bc6b5a325a90097a5631300969ceaa5321a99ed5a1a96792769e3a4fca1d"
+                      },
+                      {
+                          "path":  "9_Sugar/Arhive/SUGAR-ST-P_L.ai",
+                          "asset":  "f-8646bc6b5a325a90.ai",
+                          "size":  326027,
+                          "sha256":  "8646bc6b5a325a90097a5631300969ceaa5321a99ed5a1a96792769e3a4fca1d"
+                      },
+                      {
+                          "path":  "9_Sugar/Arhive/SUGAR-ST-P_M.ai",
+                          "asset":  "f-bff04e1a003b0e55.ai",
+                          "size":  325786,
+                          "sha256":  "bff04e1a003b0e5535f97a7d5ab15698ac3b0202640a2abbdf064369bf22b018"
+                      },
+                      {
+                          "path":  "9_Sugar/Arhive/SUGAR-ST_L.ai",
+                          "asset":  "f-8646bc6b5a325a90.ai",
+                          "size":  326027,
+                          "sha256":  "8646bc6b5a325a90097a5631300969ceaa5321a99ed5a1a96792769e3a4fca1d"
+                      },
+                      {
+                          "path":  "9_Sugar/Arhive/SUGAR-ST_M.ai",
+                          "asset":  "f-bff04e1a003b0e55.ai",
+                          "size":  325786,
+                          "sha256":  "bff04e1a003b0e5535f97a7d5ab15698ac3b0202640a2abbdf064369bf22b018"
+                      },
+                      {
+                          "path":  "9_Sugar/Arhive/SUGAR-ST_Test.ai",
+                          "asset":  "f-f23824eee5b147a1.ai",
+                          "size":  509874,
+                          "sha256":  "f23824eee5b147a1625e0ef8949a515a820f012fab089c873cbb285526d3d517"
+                      },
+                      {
                           "path":  "Kraft/Kraft.pdf",
                           "asset":  "f-f9e161803db9bfb3.pdf",
                           "size":  16601615,
@@ -1691,6 +1897,24 @@
                           "asset":  "f-038bdd2bb65f033b.jpg",
                           "size":  97049,
                           "sha256":  "038bdd2bb65f033b9e84352865bb3cca1dc5c5682c39aedc87fa00875c07985c"
+                      },
+                      {
+                          "path":  "Kraft/.metadata/.Крафт1-10.jpg.info",
+                          "asset":  "f-6527433833e03284.info",
+                          "size":  2917,
+                          "sha256":  "6527433833e03284bc2c276e630955c866aa2096f191bd37ea4d2b2e43ecff2a"
+                      },
+                      {
+                          "path":  "Kraft/.metadata/.Крафт1-15.jpg.info",
+                          "asset":  "f-3fc62bbb12dce3a9.info",
+                          "size":  2917,
+                          "sha256":  "3fc62bbb12dce3a95974ff3123f2f99189752b26c8003f319d1c5631b395fbfc"
+                      },
+                      {
+                          "path":  "Kraft/.metadata/.Крафт1-20.jpg.info",
+                          "asset":  "f-de6a99c8c4bd904c.info",
+                          "size":  2851,
+                          "sha256":  "de6a99c8c4bd904c77a1522ce7bd73299ec7c7284cd7f784923a95c37621ea7f"
                       },
                       {
                           "path":  "Scripts/0_DW_Start.jsx",
@@ -1781,14 +2005,90 @@
                           "asset":  "f-9ad8d1201ac8b278.ase",
                           "size":  112798,
                           "sha256":  "9ad8d1201ac8b278e8f950c67e6ede1b69cbd9a45d3b6202479cf038301aa176"
+                      },
+                      {
+                          "path":  "Scripts/SEP/ink_coverage.py",
+                          "asset":  "f-e974e1234fb6d355.py",
+                          "size":  61570,
+                          "sha256":  "e974e1234fb6d355c805f74f08c6d5afa60aac824e8db1fd736dff902ea671df"
+                      },
+                      {
+                          "path":  "Scripts/SEP/pdf_ink_coverage_app.py",
+                          "asset":  "f-bf98014356204603.py",
+                          "size":  18268,
+                          "sha256":  "bf980143562046039a6b6c4da8548fee83c69a45a3d9043ecb20b5152cba2c37"
+                      },
+                      {
+                          "path":  "Scripts/SEP/RUN_SEP.bat",
+                          "asset":  "f-d184db9c61d17f24.bat",
+                          "size":  1759,
+                          "sha256":  "d184db9c61d17f24dad4b45c6f8c8a03d38dad1e757d81de5128ad9c6a112989"
+                      },
+                      {
+                          "path":  "Scripts/SEP/RUN_SUMM.bat",
+                          "asset":  "f-ec059cc001b66069.bat",
+                          "size":  1441,
+                          "sha256":  "ec059cc001b66069671e370a93a24bcbaec23706ca03a4f058034d8c34f091a3"
+                      },
+                      {
+                          "path":  "Scripts/SEP/ARH/ink_coverage.py",
+                          "asset":  "f-e974e1234fb6d355.py",
+                          "size":  61570,
+                          "sha256":  "e974e1234fb6d355c805f74f08c6d5afa60aac824e8db1fd736dff902ea671df"
+                      },
+                      {
+                          "path":  "Scripts/SEP/DB/anilox.csv",
+                          "asset":  "f-682461f6782d615a.csv",
+                          "size":  51,
+                          "sha256":  "682461f6782d615abdbcad3edceb7a7ebf1dba8f210a4cddd760c1ff400b1400"
+                      },
+                      {
+                          "path":  "Scripts/SEP/DB/areas.csv",
+                          "asset":  "f-ee744c3c286d8c38.csv",
+                          "size":  68,
+                          "sha256":  "ee744c3c286d8c3878727978acc302bc2afedbba91f5528a1b2eaa874224af48"
+                      },
+                      {
+                          "path":  "Scripts/SEP/DB/prices.csv",
+                          "asset":  "f-fba834c865de8076.csv",
+                          "size":  289,
+                          "sha256":  "fba834c865de807650bc5722900a5fca83bc5ec38cfc9136c81b6f88e9d92bf6"
+                      },
+                      {
+                          "path":  "Scripts/SEP/DB/recipes.csv",
+                          "asset":  "f-2da30e05a094c9aa.csv",
+                          "size":  884,
+                          "sha256":  "2da30e05a094c9aa85df175b87e091c45934d433b64ba869dda6cc6655569c47"
+                      },
+                      {
+                          "path":  "Scripts/SEP/DB/widths.csv",
+                          "asset":  "f-2ef6a6260376aae4.csv",
+                          "size":  61,
+                          "sha256":  "2ef6a6260376aae4f958c32d1528d405ef61ed5c29aff696a285b4a2665f31ec"
+                      },
+                      {
+                          "path":  "Scripts/_Архив/ink_coverage.py",
+                          "asset":  "f-934787dfc75dc4f4.py",
+                          "size":  54711,
+                          "sha256":  "934787dfc75dc4f4c0b92541d3aab53ba7da434287c547463f29eb229da34a43"
+                      },
+                      {
+                          "path":  "Scripts/_Архив/ink_coverage_new.py",
+                          "asset":  "f-50a7c0e1cbbf21d0.py",
+                          "size":  56405,
+                          "sha256":  "50a7c0e1cbbf21d07baf8eb06e0fc3327a21bed1f8b7c856df2eaab746957678"
+                      },
+                      {
+                          "path":  "Scripts/_Архив/ink_coverage_new_new.py",
+                          "asset":  "f-591fef10c541e2bf.py",
+                          "size":  51771,
+                          "sha256":  "591fef10c541e2bf3f84657aa4c6a5e67f170eba3deb057bd877e71929c9806d"
+                      },
+                      {
+                          "path":  "Scripts/_Архив/ink_coverage_old.py",
+                          "asset":  "f-60d8612a1561f662.py",
+                          "size":  48248,
+                          "sha256":  "60d8612a1561f66227b1380c76533f937e349b75acaaa19a557d2b99a9512c46"
                       }
-                  ],
-    "generated":  "2026-07-30T09:38:38",
-    "app":  {
-                "version":  "3.0.0",
-                "notes":  "",
-                "asset":  "app-3.0.0.exe",
-                "size":  73324449,
-                "sha256":  "ced3e9ab9dc5eae115a4cd0afb3ff5f7cac26dca7128574156591acbaa02a223"
-            }
+                  ]
 }
