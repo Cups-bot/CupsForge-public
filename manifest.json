@@ -1783,12 +1783,12 @@
                           "sha256":  "9ad8d1201ac8b278e8f950c67e6ede1b69cbd9a45d3b6202479cf038301aa176"
                       }
                   ],
-    "generated":  "2026-07-30T00:00:21",
+    "generated":  "2026-07-30T09:38:38",
     "app":  {
                 "version":  "3.0.0",
                 "notes":  "",
                 "asset":  "app-3.0.0.exe",
-                "size":  73204744,
-                "sha256":  "e88d39fe94d59845cdd339d221fc72b996fa78ac5a54aa67a5a5039e9aeed44f"
+                "size":  73324449,
+                "sha256":  "ced3e9ab9dc5eae115a4cd0afb3ff5f7cac26dca7128574156591acbaa02a223"
             }
 }
