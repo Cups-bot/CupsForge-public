@@ -1,5 +1,5 @@
 {
-    "generated":  "2026-07-30T10:51:45",
+    "generated":  "2026-08-01T15:46:23",
     "app":  {
                 "version":  "3.0.0",
                 "notes":  "",
@@ -165,118 +165,118 @@
                           "sha256":  "51fd2ff7500b2b97a5950cdd087a2c69dbaf217adc91da7aa97f33dbd6cc5692"
                       },
                       {
-                          "path":  "11_Bag/PDF/BF280-240-140-E-0000.pdf",
-                          "asset":  "f-781c9c38a718e180.pdf",
-                          "size":  325575,
-                          "sha256":  "781c9c38a718e18042a7f9db4e2cedf8651ae9dad734e92602792c11e6197aa5"
+                          "path":  "11_Bag/PDF/_BF280-240-140-E-0000.pdf",
+                          "asset":  "f-8bec99233f5effd5.pdf",
+                          "size":  15459214,
+                          "sha256":  "8bec99233f5effd5806dba8c600531200c2012abc6c881179691e2c0f7c0d621"
                       },
                       {
-                          "path":  "11_Bag/PDF/BF280-240-140W-E-0000.pdf",
-                          "asset":  "f-9989c49d6fa9f17a.pdf",
-                          "size":  328705,
-                          "sha256":  "9989c49d6fa9f17a15e03f3976f788ac262097f5a1ab221189695d9796012957"
+                          "path":  "11_Bag/PDF/_BF280-240-140W-E-0000.pdf",
+                          "asset":  "f-f6a13ecae6b174c1.pdf",
+                          "size":  334222,
+                          "sha256":  "f6a13ecae6b174c1a4d24e3e73ade1f6ca6856abe4337deb91d78e52039974d1"
                       },
                       {
-                          "path":  "11_Bag/PDF/BF320-320-180-E-0000.pdf",
-                          "asset":  "f-3bfb872ba75ddad3.pdf",
-                          "size":  328722,
-                          "sha256":  "3bfb872ba75ddad3a76c64b00010cb7dff443f3c5be886e271983753219a29e8"
+                          "path":  "11_Bag/PDF/_BF320-320-180-E-0000.pdf",
+                          "asset":  "f-6566a12210e2ca55.pdf",
+                          "size":  15453632,
+                          "sha256":  "6566a12210e2ca550526e0edfcdc5165110d5561758672bdfc940329668e6654"
                       },
                       {
-                          "path":  "11_Bag/PDF/BF370-320-200-E-0000.pdf",
-                          "asset":  "f-5138b9aede9c6e50.pdf",
-                          "size":  328139,
-                          "sha256":  "5138b9aede9c6e5040b9b442adaf527f0f7e03f14899b1f3efd518ef93610ed1"
+                          "path":  "11_Bag/PDF/_BF370-320-200-E-0000.pdf",
+                          "asset":  "f-797208f419411df5.pdf",
+                          "size":  15455198,
+                          "sha256":  "797208f419411df5bad89d8bf3019b598e2ff08a244a9ede73f0c78251a0c794"
                       },
                       {
-                          "path":  "11_Bag/PDF/BF370-320-200W-E-0000.pdf",
-                          "asset":  "f-80b8276ba1d070fd.pdf",
-                          "size":  329206,
-                          "sha256":  "80b8276ba1d070fd20c52072c4eab698864dd8e50bdafbef71f85b5057eb387a"
+                          "path":  "11_Bag/PDF/_BF370-320-200W-E-0000.pdf",
+                          "asset":  "f-eb103ecf1f284563.pdf",
+                          "size":  327751,
+                          "sha256":  "eb103ecf1f284563be06fbafdfab22596a99d28c0dabb643e882555bc08b7102"
                       },
                       {
-                          "path":  "11_Bag/PDF/BF450-350-150-E-0000.pdf",
-                          "asset":  "f-0e41be42eec562fe.pdf",
-                          "size":  327821,
-                          "sha256":  "0e41be42eec562fef24cc01bb4a7d8f6097b09a2963dee864008db565cb1373c"
+                          "path":  "11_Bag/PDF/_BF450-350-150-E-0000.pdf",
+                          "asset":  "f-9cb11f9bb0402c78.pdf",
+                          "size":  15450199,
+                          "sha256":  "9cb11f9bb0402c786891c511e065d0026b2e664186c516071821da5b8a868d75"
                       },
                       {
-                          "path":  "11_Bag/PDF/BH280-240-140-E-0000.pdf",
-                          "asset":  "f-c4ea0faef59ff21d.pdf",
-                          "size":  333819,
-                          "sha256":  "c4ea0faef59ff21d8383fc2822af0b92a9d235578d0baf7fcacd1696c306615e"
+                          "path":  "11_Bag/PDF/_BH280-240-140-E-0000.pdf",
+                          "asset":  "f-fbee6d5da62fec05.pdf",
+                          "size":  15452777,
+                          "sha256":  "fbee6d5da62fec053485418a15ebe25686cbfecfb8266434f5c84eb0656abff5"
                       },
                       {
-                          "path":  "11_Bag/PDF/BH280-240-140W-E-0000.pdf",
-                          "asset":  "f-351ff5a667aa0459.pdf",
-                          "size":  332176,
-                          "sha256":  "351ff5a667aa0459afcd53a603f62279c88d1510be76fc6cf9175533d763f806"
+                          "path":  "11_Bag/PDF/_BH280-240-140W-E-0000.pdf",
+                          "asset":  "f-c5c5e3a74f313d2c.pdf",
+                          "size":  325079,
+                          "sha256":  "c5c5e3a74f313d2c0bc12a0bc308b1739373097a382ee6c32584bf78199e4333"
                       },
                       {
-                          "path":  "11_Bag/PDF/BH350-260-140-E-0000.pdf",
-                          "asset":  "f-502036694927341b.pdf",
-                          "size":  335351,
-                          "sha256":  "502036694927341be23c6dbdb74a6c2ce2720313da018fbb019f9a92396e5172"
+                          "path":  "11_Bag/PDF/_BH350-260-140-E-0000.pdf",
+                          "asset":  "f-cff12d4cbb6bf3ac.pdf",
+                          "size":  15462279,
+                          "sha256":  "cff12d4cbb6bf3ac98afadf362516d46bff7e844fecf9ad212dd1798d5b73bea"
                       },
                       {
-                          "path":  "11_Bag/PDF/BH350-260-140W-E-0000.pdf",
-                          "asset":  "f-8c4aaf571b77ec5f.pdf",
-                          "size":  326810,
-                          "sha256":  "8c4aaf571b77ec5f5b597c8a8b63b5bed87920ee06d7536b43931bfb7d4fd403"
+                          "path":  "11_Bag/PDF/_BH350-260-140W-E-0000.pdf",
+                          "asset":  "f-2100c440d8166e9b.pdf",
+                          "size":  334345,
+                          "sha256":  "2100c440d8166e9be13115a9a1ce38d0c46b1354c18ddfcd45fc004bf71e19dd"
                       },
                       {
-                          "path":  "11_Bag/PDF/BH370-320-200-E-0000.pdf",
-                          "asset":  "f-d88dfabf51aad99c.pdf",
-                          "size":  328082,
-                          "sha256":  "d88dfabf51aad99c10ce63642762f83a7554800aa7c9373b7deec84c0ede6c63"
+                          "path":  "11_Bag/PDF/_BH370-320-200-E-0000.pdf",
+                          "asset":  "f-f378ad50bfba4839.pdf",
+                          "size":  15456598,
+                          "sha256":  "f378ad50bfba48396ad7c8cd3c7ba3ec94d7b234218806364d3cfb4c4c73a2e4"
                       },
                       {
-                          "path":  "11_Bag/PDF/BH370-320-200W-E-0000.pdf",
-                          "asset":  "f-c1b9c20f4ece47c3.pdf",
-                          "size":  324987,
-                          "sha256":  "c1b9c20f4ece47c37da5be415a77b597a541ce76e8d1e055babcf7e27a126b84"
+                          "path":  "11_Bag/PDF/_BH370-320-200W-E-0000.pdf",
+                          "asset":  "f-c68ad8f275af1564.pdf",
+                          "size":  329038,
+                          "sha256":  "c68ad8f275af1564bc75036e0622a3ac2e86cea972fbfc80894009d289182715"
                       },
                       {
-                          "path":  "11_Bag/PDF/BH450-350-150-E-0000.pdf",
-                          "asset":  "f-6f2bc544bf0836aa.pdf",
-                          "size":  323379,
-                          "sha256":  "6f2bc544bf0836aa714af48d217c2fccef6e346f09ad8f8fa7e3cf8967e54c8f"
+                          "path":  "11_Bag/PDF/_BH450-350-150-E-0000.pdf",
+                          "asset":  "f-eaa6783d589f98e1.pdf",
+                          "size":  15457064,
+                          "sha256":  "eaa6783d589f98e1837400b072ec1d69c76cbeffce59798e47c9b5ff53614b78"
                       },
                       {
-                          "path":  "11_Bag/PDF/BH450-350-150W-E-0000.pdf",
-                          "asset":  "f-173776d15741b3ed.pdf",
-                          "size":  327695,
-                          "sha256":  "173776d15741b3edc355c10b2d3f632411e8b260d71951da5d1e2ad6b373a5ec"
+                          "path":  "11_Bag/PDF/_BH450-350-150W-E-0000.pdf",
+                          "asset":  "f-6789c06ebc3f8edb.pdf",
+                          "size":  329579,
+                          "sha256":  "6789c06ebc3f8edbfcb40438297647e70bf548396aa280af5d84115e723a4989"
                       },
                       {
-                          "path":  "11_Bag/PDF/BR285-130-70-E-0000.pdf",
-                          "asset":  "f-8d9c96c32e71ec5a.pdf",
-                          "size":  328769,
-                          "sha256":  "8d9c96c32e71ec5af7d74229154e175cf6dbcfae5e88c57a1a3821e22a852bea"
+                          "path":  "11_Bag/PDF/_BR285-130-70-E-0000.pdf",
+                          "asset":  "f-40d995a5eaebb09e.pdf",
+                          "size":  10388265,
+                          "sha256":  "40d995a5eaebb09ed4bb6c832c18827d3c9f2763d054cef79abfbceeb695da37"
                       },
                       {
-                          "path":  "11_Bag/PDF/BR290-180-120-E-0000.pdf",
-                          "asset":  "f-61003fbd433f537c.pdf",
-                          "size":  328248,
-                          "sha256":  "61003fbd433f537c40943daec42cb5a2a0c25372fc0852f264146411dd226ea8"
+                          "path":  "11_Bag/PDF/_BR290-180-120-E-0000.pdf",
+                          "asset":  "f-7a4b5e67ed3338ac.pdf",
+                          "size":  10389115,
+                          "sha256":  "7a4b5e67ed3338ac823fa284cf1f4aa4af94407c89b91bc80eb433136b8cef6f"
                       },
                       {
-                          "path":  "11_Bag/PDF/BR290-180-120W-E-0000.pdf",
-                          "asset":  "f-b2dd11202d67ee86.pdf",
-                          "size":  327593,
-                          "sha256":  "b2dd11202d67ee8640e7b37dc1b5264f1f65881b34518f64444da4fd31c40f85"
+                          "path":  "11_Bag/PDF/_BR290-180-120W-E-0000.pdf",
+                          "asset":  "f-04c759ecf145eb2c.pdf",
+                          "size":  322002,
+                          "sha256":  "04c759ecf145eb2c2717f327b562a93e5bcad6e732fa2500f51868486fccb5fb"
                       },
                       {
-                          "path":  "11_Bag/PDF/BR340-320-200-E-0000.pdf",
-                          "asset":  "f-b396c7e2431d8cc6.pdf",
-                          "size":  326173,
-                          "sha256":  "b396c7e2431d8cc683826f570ef6b28742088b5d5b207d719381074a508da8e0"
+                          "path":  "11_Bag/PDF/_BR340-320-200-E-0000.pdf",
+                          "asset":  "f-cf7949fa4deee123.pdf",
+                          "size":  10386386,
+                          "sha256":  "cf7949fa4deee123d65167c4df765996c9bca1102a7902ef458e24c93ddd64a5"
                       },
                       {
-                          "path":  "11_Bag/PDF/BR400-240-140-E-0000.pdf",
-                          "asset":  "f-8bc54bd72197f3ab.pdf",
-                          "size":  322809,
-                          "sha256":  "8bc54bd72197f3ab4b4429b9f503ff284936931dd5dc6af13f736fc8838c78a0"
+                          "path":  "11_Bag/PDF/_BR400-240-140-E-0000.pdf",
+                          "asset":  "f-7705f743b60a42a9.pdf",
+                          "size":  10388906,
+                          "sha256":  "7705f743b60a42a9495a60a0cc1adaa8412664f223cc1719d55b0af3c37badc2"
                       },
                       {
                           "path":  "11_Bag/под вопросом/_BH-E320-320-180-0000.ai",
@@ -400,9 +400,9 @@
                       },
                       {
                           "path":  "1_Flexo/_HB70-210-0000.ai",
-                          "asset":  "f-954992bb10cfc8ad.ai",
-                          "size":  528199,
-                          "sha256":  "954992bb10cfc8adc9afae03f35bd4cd0c1c226bf9b29c3b0bbf52888b04a98b"
+                          "asset":  "f-24eccc2ecd8ece2e.ai",
+                          "size":  527974,
+                          "sha256":  "24eccc2ecd8ece2ec1a7c9c807747d86340a130e6ea487c4320911ba46a35e28"
                       },
                       {
                           "path":  "1_Flexo/_HB72-205-0000.ai",
@@ -1023,6 +1023,18 @@
                           "sha256":  "cd026a031be6c768c34b58da5574dae4f105425f065c9e1372205aeb5a3ee5ce"
                       },
                       {
+                          "path":  "3_CupsToYou_Tr/7oz/7 OZ BIÇAK kore makine.ai",
+                          "asset":  "f-8f4e895901554d19.ai",
+                          "size":  328266,
+                          "sha256":  "8f4e895901554d19fd3c5cdd65418fb73eba70e068dd61354e942c94990d8b73"
+                      },
+                      {
+                          "path":  "3_CupsToYou_Tr/7oz/7 OZ BIÇAK kore makine.pdf",
+                          "asset":  "f-a5c07d3b8573f5c9.pdf",
+                          "size":  65256,
+                          "sha256":  "a5c07d3b8573f5c9014069ed9e305fddc34ab1eecb346cf7cab7b66844eec84b"
+                      },
+                      {
                           "path":  "3_CupsToYou_Tr/OLD/PDF/HB80-280-250ml_ENG-EU.pdf",
                           "asset":  "f-7c280ed9ac80254a.pdf",
                           "size":  290533,
@@ -1303,6 +1315,18 @@
                           "asset":  "f-b9773aebdb60fec3.ai",
                           "size":  2068554,
                           "sha256":  "b9773aebdb60fec312921e7b205f9e2faf50797074fdca2306e7ea8dea154eed"
+                      },
+                      {
+                          "path":  "5_CupsToYou_En/7oz/7 OZ BIÇAK kore makine.ai",
+                          "asset":  "f-8237247cef6d8663.ai",
+                          "size":  286542,
+                          "sha256":  "8237247cef6d8663b30a2ad256712819745fac37c7e612d7b547e24a4b972280"
+                      },
+                      {
+                          "path":  "5_CupsToYou_En/7oz/7 OZ BIÇAK kore makine.pdf",
+                          "asset":  "f-8af1e7dcf0ad0a19.pdf",
+                          "size":  285603,
+                          "sha256":  "8af1e7dcf0ad0a196cc423d7e88099d58c1d5fa869b27504bb00f21afb442f0d"
                       },
                       {
                           "path":  "5_CupsToYou_En/PDF/HB80-280-250ml_ENG-EU.pdf",
@@ -1923,22 +1947,40 @@
                           "sha256":  "8a9fd52c496f6c8fa633d12f2978dc4205948ea1033ce148f6c980fba40ea9d7"
                       },
                       {
+                          "path":  "Scripts/1_1_HB_Export.jsx",
+                          "asset":  "f-aba33ab9610c05e3.jsx",
+                          "size":  4185,
+                          "sha256":  "aba33ab9610c05e37bc41895dd56e54b2c3c99291fb07fb31c7246aea84c2ece"
+                      },
+                      {
+                          "path":  "Scripts/1_1_Preview.jsx",
+                          "asset":  "f-33947965665c760f.jsx",
+                          "size":  4063,
+                          "sha256":  "33947965665c760fab24e7c4c754145bf4f37f26ee153a84e78a70f27cd8ee77"
+                      },
+                      {
+                          "path":  "Scripts/1_2_export-proof.jsx",
+                          "asset":  "f-8b529df092d1c0e2.jsx",
+                          "size":  43514,
+                          "sha256":  "8b529df092d1c0e269d7b1ad4c9fe476c28e3cd774d442ce6c9acd01a79ce532"
+                      },
+                      {
                           "path":  "Scripts/1_DW_Export_new.jsx",
                           "asset":  "f-b4119bd9f978de63.jsx",
                           "size":  4770,
                           "sha256":  "b4119bd9f978de63ff8448d987525148b15044b106f9e8722d3bc30159991fe2"
                       },
                       {
-                          "path":  "Scripts/2_FlexoForm_OLD.jsx",
-                          "asset":  "f-11380b86e6a620f2.jsx",
-                          "size":  12527,
-                          "sha256":  "11380b86e6a620f2fb02c9999fd41288a32e54606de17db86b7b0cd3c7c2257a"
+                          "path":  "Scripts/2_FlexoForm.jsx",
+                          "asset":  "f-35770f875d25f9b4.jsx",
+                          "size":  19931,
+                          "sha256":  "35770f875d25f9b46d52ff6dc8362fe4b0faaaca7f1cb645eedc5499f119752e"
                       },
                       {
-                          "path":  "Scripts/3_FlexoForm_NEW.jsx",
-                          "asset":  "f-4ac8f1d1b8fe4e93.jsx",
-                          "size":  12521,
-                          "sha256":  "4ac8f1d1b8fe4e9358035f359acf1bad8b11e816e7b3618a6074048c58a0292a"
+                          "path":  "Scripts/3_RenderSwatchLegend.jsx",
+                          "asset":  "f-dce1031eaf42a969.jsx",
+                          "size":  42714,
+                          "sha256":  "dce1031eaf42a9698ce36c0e1cde1e436d2d51947cbd9a1862417cd92e39c1a2"
                       },
                       {
                           "path":  "Scripts/flexo-formatter.html",
@@ -1951,6 +1993,12 @@
                           "asset":  "f-2fed2ca72614b3cb.jsx",
                           "size":  11101,
                           "sha256":  "2fed2ca72614b3cbe175fcd8acdf85a5a004e3fb392fe24acc4d8c66a953e30d"
+                      },
+                      {
+                          "path":  "Scripts/Replace Links Ai.jsx",
+                          "asset":  "f-8976e9f64e5b3626.jsx",
+                          "size":  659,
+                          "sha256":  "8976e9f64e5b3626ec4f1e2ecc464215aef7ff529a7bfe6c03294bfff3516212"
                       },
                       {
                           "path":  "Scripts/CMYK/index.html",
