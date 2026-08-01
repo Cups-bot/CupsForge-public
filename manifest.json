@@ -1,5 +1,5 @@
 {
-    "generated":  "2026-08-01T15:46:23",
+    "generated":  "2026-08-01T16:00:59",
     "app":  {
                 "version":  "3.0.0",
                 "notes":  "",
@@ -52,9 +52,9 @@
                       },
                       {
                           "path":  "11_Bag/_BF280-240-140-E-0000.ai",
-                          "asset":  "f-f57b81081fe494b2.ai",
-                          "size":  15459214,
-                          "sha256":  "f57b81081fe494b251c232724b201a8b3da020051af9fc714c7a805c593c0ac5"
+                          "asset":  "f-c53c9d077ba1a518.ai",
+                          "size":  1233910,
+                          "sha256":  "c53c9d077ba1a518a9f34d79519baf242dbc603e3b0b7930805a8429b8bba256"
                       },
                       {
                           "path":  "11_Bag/_BF280-240-140W-E-0000.ai",
@@ -64,15 +64,15 @@
                       },
                       {
                           "path":  "11_Bag/_BF320-320-180-E-0000.ai",
-                          "asset":  "f-7e6d80c2e7a04a16.ai",
-                          "size":  15453632,
-                          "sha256":  "7e6d80c2e7a04a16b87cd722939123d42ac8e852fb1e3ee4826f019de757dc99"
+                          "asset":  "f-116ccaadfe32f7fa.ai",
+                          "size":  1373601,
+                          "sha256":  "116ccaadfe32f7fa12bca9db9e77be90022845f21b042373d60c1ac2e9557b5b"
                       },
                       {
                           "path":  "11_Bag/_BF370-320-200-E-0000.ai",
-                          "asset":  "f-7769e582bf885a33.ai",
-                          "size":  15455198,
-                          "sha256":  "7769e582bf885a33dba92d538010f6c945f2946c0a7fcc631b3882c4ff8b2c1e"
+                          "asset":  "f-63f2217b31e79f6e.ai",
+                          "size":  1431932,
+                          "sha256":  "63f2217b31e79f6e2d99ed4c602bac88d78299c29e75fe05307da975df6cc2f9"
                       },
                       {
                           "path":  "11_Bag/_BF370-320-200W-E-0000.ai",
@@ -82,15 +82,15 @@
                       },
                       {
                           "path":  "11_Bag/_BF450-350-150-E-0000.ai",
-                          "asset":  "f-e4b89a09d4fe71e1.ai",
-                          "size":  15450199,
-                          "sha256":  "e4b89a09d4fe71e121c39c2759b57961371703a99e684a7d21f48fdd03231cd2"
+                          "asset":  "f-5f69851c100defbe.ai",
+                          "size":  1844304,
+                          "sha256":  "5f69851c100defbeaac34daca6bcbd9e9e84b28368512ec17f50e72568f5d1f7"
                       },
                       {
                           "path":  "11_Bag/_BH280-240-140-E-0000.ai",
-                          "asset":  "f-5e23926e25f1413f.ai",
-                          "size":  15452777,
-                          "sha256":  "5e23926e25f1413fbb4c58c569b27bab959d5a6c3a78a5525e0d35436787c6b6"
+                          "asset":  "f-dc9587af47daa480.ai",
+                          "size":  1206338,
+                          "sha256":  "dc9587af47daa4806a29765c8f55601894c8b0c14a1c32d29dddbf564fa2b441"
                       },
                       {
                           "path":  "11_Bag/_BH280-240-140W-E-0000.ai",
@@ -100,9 +100,9 @@
                       },
                       {
                           "path":  "11_Bag/_BH350-260-140-E-0000.ai",
-                          "asset":  "f-8d158ba1b1ab40b2.ai",
-                          "size":  15462279,
-                          "sha256":  "8d158ba1b1ab40b29304eba2a5fac03afa96034d235b67cecda41a8a27896d5c"
+                          "asset":  "f-f3fb75d0602f5ca1.ai",
+                          "size":  1295270,
+                          "sha256":  "f3fb75d0602f5ca164cf44cb93869de732b6fb3e7c214ad9ab00e199d1881107"
                       },
                       {
                           "path":  "11_Bag/_BH350-260-140W-E-0000.ai",
@@ -112,9 +112,9 @@
                       },
                       {
                           "path":  "11_Bag/_BH370-320-200-E-0000.ai",
-                          "asset":  "f-ce7a69ec24d4d2c4.ai",
-                          "size":  15456598,
-                          "sha256":  "ce7a69ec24d4d2c45b4cfc6ef394d1282a262edb97c29fe4c9453e07b540872c"
+                          "asset":  "f-a69fc3dfbd874149.ai",
+                          "size":  1588596,
+                          "sha256":  "a69fc3dfbd8741495884a389ddcf24bd34a4f97ee1aec1f70f5bcfcf1bc67fe7"
                       },
                       {
                           "path":  "11_Bag/_BH370-320-200W-E-0000.ai",
@@ -124,9 +124,9 @@
                       },
                       {
                           "path":  "11_Bag/_BH450-350-150-E-0000.ai",
-                          "asset":  "f-09ed7f02a7c93149.ai",
-                          "size":  15457064,
-                          "sha256":  "09ed7f02a7c93149e9e23eec017d960140f66d862453725c5c960d434f8fef9a"
+                          "asset":  "f-708e807314c32e67.ai",
+                          "size":  1806586,
+                          "sha256":  "708e807314c32e6777c37a29e402e5519ea02a0ebc8e41be70b0a13fc12baf4b"
                       },
                       {
                           "path":  "11_Bag/_BH450-350-150W-E-0000.ai",
@@ -136,15 +136,15 @@
                       },
                       {
                           "path":  "11_Bag/_BR285-130-70-E-0000.ai",
-                          "asset":  "f-8e50e520b2ae6457.ai",
-                          "size":  10388265,
-                          "sha256":  "8e50e520b2ae6457e64fad521ef10883735b2327e9745d59f15d697089f52ad8"
+                          "asset":  "f-610dd4c93ae49e3a.ai",
+                          "size":  1191478,
+                          "sha256":  "610dd4c93ae49e3a2ab6ed84c5b7583699160c3539792110aac8a35c5f81f2a6"
                       },
                       {
                           "path":  "11_Bag/_BR290-180-120-E-0000.ai",
-                          "asset":  "f-39fcd09df3d67b91.ai",
-                          "size":  10389115,
-                          "sha256":  "39fcd09df3d67b91082f579ea5548ae8c2d135530607d9188815350a507935a9"
+                          "asset":  "f-6fb14f9cdf767198.ai",
+                          "size":  1159876,
+                          "sha256":  "6fb14f9cdf7671989a69e20eabab61055e3676acc2144d1833ab4a6231f56830"
                       },
                       {
                           "path":  "11_Bag/_BR290-180-120W-E-0000.ai",
@@ -154,15 +154,15 @@
                       },
                       {
                           "path":  "11_Bag/_BR340-320-200-E-0000.ai",
-                          "asset":  "f-9724ada4b01cbdc3.ai",
-                          "size":  10386386,
-                          "sha256":  "9724ada4b01cbdc393926b8fffa4e95314f5c6e539f30b19111a8933a3a66f90"
+                          "asset":  "f-664285058506d9c4.ai",
+                          "size":  1622055,
+                          "sha256":  "664285058506d9c4c7e78554ea04c488d21e0fd8e0d232c05276872a75c3d2e5"
                       },
                       {
                           "path":  "11_Bag/_BR400-240-140-E-0000.ai",
-                          "asset":  "f-51fd2ff7500b2b97.ai",
-                          "size":  10388906,
-                          "sha256":  "51fd2ff7500b2b97a5950cdd087a2c69dbaf217adc91da7aa97f33dbd6cc5692"
+                          "asset":  "f-d4a011d3a8955b0f.ai",
+                          "size":  1486004,
+                          "sha256":  "d4a011d3a8955b0f67a2bddab61f4f7326ef980c8870f4b5bf0ae44ecdd16fc9"
                       },
                       {
                           "path":  "11_Bag/PDF/_BF280-240-140-E-0000.pdf",
