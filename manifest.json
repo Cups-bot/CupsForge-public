@@ -1,12 +1,4 @@
 {
-    "generated":  "2026-08-01T16:00:59",
-    "app":  {
-                "version":  "3.0.0",
-                "notes":  "",
-                "asset":  "app-3.0.0.exe",
-                "size":  73324449,
-                "sha256":  "ced3e9ab9dc5eae115a4cd0afb3ff5f7cac26dca7128574156591acbaa02a223"
-            },
     "catalog":  {
                     "path":  "catalog.json",
                     "asset":  "f-af1700f7241a6fbb.json",
@@ -2138,5 +2130,13 @@
                           "size":  48248,
                           "sha256":  "60d8612a1561f66227b1380c76533f937e349b75acaaa19a557d2b99a9512c46"
                       }
-                  ]
+                  ],
+    "generated":  "2026-08-02T15:06:03",
+    "app":  {
+                "version":  "3.0.0",
+                "notes":  "",
+                "asset":  "app-3.0.0.exe",
+                "size":  73217578,
+                "sha256":  "3c7944c9cd5d25b5c0368eea392104df9c09d3c8fe83dddb643afe626541a75c"
+            }
 }
