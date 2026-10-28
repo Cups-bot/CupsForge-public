@@ -1,5 +1,5 @@
 {
-    "generated":  "2026-08-04T09:45:55",
+    "generated":  "2026-10-28T12:17:11",
     "app":  {
                 "version":  "3.0.0",
                 "notes":  "",
@@ -9,11 +9,11 @@
             },
     "catalog":  {
                     "path":  "catalog.json",
-                    "asset":  "f-af1700f7241a6fbb.json",
-                    "size":  12165,
-                    "sha256":  "af1700f7241a6fbbaa53124a9f545be45904a21f2562e2a8dceab68725c3331f",
-                    "version":  2,
-                    "updated":  "2026-07-28"
+                    "asset":  "f-92bafb0313a96c18.json",
+                    "size":  14763,
+                    "sha256":  "92bafb0313a96c1831e5e8718668174460c5297f3c346c0a3d3c596b9dd8ee7f",
+                    "version":  3,
+                    "updated":  "2026-10-28"
                 },
     "templates":  [
                       {
@@ -287,16 +287,46 @@
                           "sha256":  "ac44900a3cd388cca88608c08143848d2445365afc0365e4e6198c4bdcecadd3"
                       },
                       {
+                          "path":  "14_Shelko/BM90-410_Full.ai",
+                          "asset":  "f-6d18e26bc2b6d99c.ai",
+                          "size":  319494,
+                          "sha256":  "6d18e26bc2b6d99cb20bf4fde7ddc5fa9ecc4050086ace364e7836498727e192"
+                      },
+                      {
+                          "path":  "14_Shelko/BM90-410_Full.pdf",
+                          "asset":  "f-f35f1c2dde687246.pdf",
+                          "size":  319250,
+                          "sha256":  "f35f1c2dde687246c8e491975e49d13ac61cce5ae8b979865e4ee4829cc68a94"
+                      },
+                      {
+                          "path":  "14_Shelko/BM90-500_Full.ai",
+                          "asset":  "f-c206f58c06974120.ai",
+                          "size":  321508,
+                          "sha256":  "c206f58c069741209d0026bb76eae47b0bb492bd6f5aa1b932c2443902260899"
+                      },
+                      {
+                          "path":  "14_Shelko/BM90-500_Full.pdf",
+                          "asset":  "f-4e7abff4e084a672.pdf",
+                          "size":  328436,
+                          "sha256":  "4e7abff4e084a6725bdea0989d20a96e646830486dd1b9fb08960967ae5a15ae"
+                      },
+                      {
                           "path":  "1_Flexo/CON75-130-000000.ai",
                           "asset":  "f-24938a29f3f1a6bb.ai",
                           "size":  360864,
                           "sha256":  "24938a29f3f1a6bba0c3831adfa50db39a51891503c260394abacf23851096b5"
                       },
                       {
+                          "path":  "1_Flexo/_CON75-130-000000.ai",
+                          "asset":  "f-24938a29f3f1a6bb.ai",
+                          "size":  360864,
+                          "sha256":  "24938a29f3f1a6bba0c3831adfa50db39a51891503c260394abacf23851096b5"
+                      },
+                      {
                           "path":  "1_Flexo/_DW80-280-0000.ai",
-                          "asset":  "f-0e5b4bcef8869692.ai",
-                          "size":  510176,
-                          "sha256":  "0e5b4bcef8869692665d5c8047250c7a8b39c0f1f17dce670a72999ae68edb05"
+                          "asset":  "f-dd77dedb21cfcd1c.ai",
+                          "size":  512050,
+                          "sha256":  "dd77dedb21cfcd1c194a264cba88672aa59c775ba6319fd969cdc1d5256585a4"
                       },
                       {
                           "path":  "1_Flexo/_DW90-430-0000.ai",
@@ -309,6 +339,12 @@
                           "asset":  "f-b3ff16e3068efb13.ai",
                           "size":  469727,
                           "sha256":  "b3ff16e3068efb135e8412f28c0c38fbf9ddb05d031f5a98fc9dc8cfddd792d7"
+                      },
+                      {
+                          "path":  "1_Flexo/_DW90-630-0000.ai",
+                          "asset":  "f-0643c3ecd361e867.ai",
+                          "size":  455473,
+                          "sha256":  "0643c3ecd361e867fe1178fc36e1faca6959e26f2084dc409f198a518cabfa0e"
                       },
                       {
                           "path":  "1_Flexo/_DWE80-280-0000.ai",
@@ -327,6 +363,60 @@
                           "asset":  "f-91fb8cae57ef6d1e.ai",
                           "size":  455691,
                           "sha256":  "91fb8cae57ef6d1eff331af6d8249f225d8cbda9222a98064fa3c87c4555f0e1"
+                      },
+                      {
+                          "path":  "1_Flexo/_DWE90-630-0000.ai",
+                          "asset":  "f-8b2f263212744db8.ai",
+                          "size":  455790,
+                          "sha256":  "8b2f263212744db86d98009170e8bfa8011136b48006b0e7e55403fc47357684"
+                      },
+                      {
+                          "path":  "1_Flexo/_DWEF80-280-0000.ai",
+                          "asset":  "f-5e6720ef7a07fdf3.ai",
+                          "size":  492944,
+                          "sha256":  "5e6720ef7a07fdf315509454f7205cf4c3b8e899365c9ba241f176fcbf15315d"
+                      },
+                      {
+                          "path":  "1_Flexo/_DWEF90-430-0000.ai",
+                          "asset":  "f-85f5d62a934440b8.ai",
+                          "size":  684079,
+                          "sha256":  "85f5d62a934440b84529fd7688bd968b8be5ac4e4ee32e34bccd0826077ffe96"
+                      },
+                      {
+                          "path":  "1_Flexo/_DWEF90-530-0000.ai",
+                          "asset":  "f-79f600d3cbdd7fc6.ai",
+                          "size":  453899,
+                          "sha256":  "79f600d3cbdd7fc6ebcbb83efd6053c259c06b28b4699c41d2f9ba27e56c1fc6"
+                      },
+                      {
+                          "path":  "1_Flexo/_DWEF90-630-0000.ai",
+                          "asset":  "f-f04f8958c872d20c.ai",
+                          "size":  456913,
+                          "sha256":  "f04f8958c872d20cec88ef480c0eba7d89080ba88b743e796ec7aae5fbba3814"
+                      },
+                      {
+                          "path":  "1_Flexo/_DWF80-280-0000.ai",
+                          "asset":  "f-7ec6e30750644ad3.ai",
+                          "size":  512734,
+                          "sha256":  "7ec6e30750644ad3eee19064f7ba5e219b99f6c78f4e4370091df7651cd4761a"
+                      },
+                      {
+                          "path":  "1_Flexo/_DWF90-430-0000.ai",
+                          "asset":  "f-d7def7e2fa357c71.ai",
+                          "size":  686831,
+                          "sha256":  "d7def7e2fa357c7113d27ad65e13b72641e80156dadd9aac1cd666520ab06591"
+                      },
+                      {
+                          "path":  "1_Flexo/_DWF90-530-0000.ai",
+                          "asset":  "f-4b354f53793ca8ed.ai",
+                          "size":  452023,
+                          "sha256":  "4b354f53793ca8edfdc98695b33ad62ef0b4c9ece225d64320fd8d21a5c5cd79"
+                      },
+                      {
+                          "path":  "1_Flexo/_DWF90-630-0000.ai",
+                          "asset":  "f-5cfdd5bc584b0c7c.ai",
+                          "size":  453377,
+                          "sha256":  "5cfdd5bc584b0c7c9a3ffd9957f56eb257ff6ceab4bef1a8d4eecd0e54fc0f9a"
                       },
                       {
                           "path":  "1_Flexo/_EH80-280-0000.ai",
@@ -372,9 +462,9 @@
                       },
                       {
                           "path":  "1_Flexo/_EM90-430-0000.ai",
-                          "asset":  "f-94e4abb2e41e6c35.ai",
-                          "size":  2269255,
-                          "sha256":  "94e4abb2e41e6c351e88a80a5b35c00dbe8f58dbb680580c73634f6a3eb93e6c"
+                          "asset":  "f-fe9417c48a60f29a.ai",
+                          "size":  2266156,
+                          "sha256":  "fe9417c48a60f29a46813c602cfcb0bd0134c6ab0af4ca02f344e42a98c161bb"
                       },
                       {
                           "path":  "1_Flexo/_EM90-530-0000.ai",
@@ -396,27 +486,27 @@
                       },
                       {
                           "path":  "1_Flexo/_HB70-195-0000.ai",
-                          "asset":  "f-184bbdfeadbce958.ai",
-                          "size":  503992,
-                          "sha256":  "184bbdfeadbce95863d266981c8af1c1b6531715d55c3aaef7a4b91e75c58fae"
+                          "asset":  "f-c353a7e53fc35887.ai",
+                          "size":  503997,
+                          "sha256":  "c353a7e53fc35887065b2c13e0b3c7e9d77cc3a6e71039bab103a79e1e63cdd3"
                       },
                       {
                           "path":  "1_Flexo/_HB70-210-0000.ai",
-                          "asset":  "f-24eccc2ecd8ece2e.ai",
-                          "size":  527974,
-                          "sha256":  "24eccc2ecd8ece2ec1a7c9c807747d86340a130e6ea487c4320911ba46a35e28"
+                          "asset":  "f-5fe5f890fb82567f.ai",
+                          "size":  528348,
+                          "sha256":  "5fe5f890fb82567fd679d3146c51fa6cbe6e2d8e1b4f36b25532d2f8bd5c18e2"
                       },
                       {
                           "path":  "1_Flexo/_HB72-205-0000.ai",
-                          "asset":  "f-60bdff3af32f343e.ai",
-                          "size":  507747,
-                          "sha256":  "60bdff3af32f343e1bfdad243761ef99d58c22b68e7ed2c4c1a886d17d6ba286"
+                          "asset":  "f-37d30d70bce30bdd.ai",
+                          "size":  505790,
+                          "sha256":  "37d30d70bce30bdd41ffde006b1b3ad435a1a4dacac639bc614ee10db3c8996f"
                       },
                       {
                           "path":  "1_Flexo/_HB73-260_0000.ai",
-                          "asset":  "f-3068925106babbf4.ai",
-                          "size":  372465,
-                          "sha256":  "3068925106babbf4d1ba5fd83d734bdc99ed1c7d17c1854ad6a4fd0b5c2eaade"
+                          "asset":  "f-dbdcc5102071ae9f.ai",
+                          "size":  362470,
+                          "sha256":  "dbdcc5102071ae9f34a9c2e21e69e6711ee35420a78ea42c08415667f81bfff6"
                       },
                       {
                           "path":  "1_Flexo/_HB80-280-0000.ai",
@@ -438,9 +528,9 @@
                       },
                       {
                           "path":  "1_Flexo/_HB80-340-0000.ai",
-                          "asset":  "f-ff736e26ec2ca863.ai",
-                          "size":  517414,
-                          "sha256":  "ff736e26ec2ca86320e6affacc66e5205bcc811b785189a56826b2885aeeb702"
+                          "asset":  "f-d5aaf3711f220143.ai",
+                          "size":  519656,
+                          "sha256":  "d5aaf3711f2201430adabd9be552e0a85db958f384e38bb99d953db3358d5b25"
                       },
                       {
                           "path":  "1_Flexo/_HB80-360-0000.ai",
@@ -533,6 +623,12 @@
                           "sha256":  "ebb377e599923e1495cb7ab985a0a0570f4dd06d1e336b6c6ffc1f0f460026f9"
                       },
                       {
+                          "path":  "1_Flexo/MyCups/_DW90-630-0000.ai",
+                          "asset":  "f-89b0d7a138334f6d.ai",
+                          "size":  453884,
+                          "sha256":  "89b0d7a138334f6dd8ce25c0cf79cc1ae891e9b9b86790a29d668fb80f56e167"
+                      },
+                      {
                           "path":  "1_Flexo/MyCups/_DWE80-280-0000.ai",
                           "asset":  "f-2d9faa8424c2ad10.ai",
                           "size":  423195,
@@ -549,6 +645,60 @@
                           "asset":  "f-f43b3681503541a3.ai",
                           "size":  385788,
                           "sha256":  "f43b3681503541a3a08d80da52864658e9cd4360dbfd0ae025344d373ddc0bc9"
+                      },
+                      {
+                          "path":  "1_Flexo/MyCups/_DWE90-630-0000.ai",
+                          "asset":  "f-921e7a1a0b8a8004.ai",
+                          "size":  454690,
+                          "sha256":  "921e7a1a0b8a8004d193a5834ad2b457eddd0db9021998d0ee39a15b9fc51805"
+                      },
+                      {
+                          "path":  "1_Flexo/MyCups/_DWEF80-280-0000.ai",
+                          "asset":  "f-5ef9f01ca3a38fbc.ai",
+                          "size":  429164,
+                          "sha256":  "5ef9f01ca3a38fbc8f3cb755e59d17b8c12e292d670c65b898a7c935691f6681"
+                      },
+                      {
+                          "path":  "1_Flexo/MyCups/_DWEF90-430-0000.ai",
+                          "asset":  "f-8d9854f67b1c2c15.ai",
+                          "size":  600494,
+                          "sha256":  "8d9854f67b1c2c15f81e3db9929fcb8e74ab4315a4520aeb3a9c168f2f6af685"
+                      },
+                      {
+                          "path":  "1_Flexo/MyCups/_DWEF90-530-0000.ai",
+                          "asset":  "f-0e64da3f91270e44.ai",
+                          "size":  368789,
+                          "sha256":  "0e64da3f91270e4449b77c9c0ec2129e6bc36ce7fd1a96804a6ce36204a93d0a"
+                      },
+                      {
+                          "path":  "1_Flexo/MyCups/_DWEF90-630-0000.ai",
+                          "asset":  "f-a3341e285228b5d2.ai",
+                          "size":  455025,
+                          "sha256":  "a3341e285228b5d23e461149fc33e9e753548cf675e93d6f7cef2774880495da"
+                      },
+                      {
+                          "path":  "1_Flexo/MyCups/_DWF80-280-0000.ai",
+                          "asset":  "f-291b839d1b53d8c6.ai",
+                          "size":  428449,
+                          "sha256":  "291b839d1b53d8c6670c9463ea5e804e2aa309f451d18b2b8c3d8cd594279a8a"
+                      },
+                      {
+                          "path":  "1_Flexo/MyCups/_DWF90-430-0000.ai",
+                          "asset":  "f-43369ac51c056498.ai",
+                          "size":  602007,
+                          "sha256":  "43369ac51c05649822ae03ffefd2267d30d6013403c7acf25223484368254288"
+                      },
+                      {
+                          "path":  "1_Flexo/MyCups/_DWF90-530-0000.ai",
+                          "asset":  "f-7bc6b3218255bd89.ai",
+                          "size":  367881,
+                          "sha256":  "7bc6b3218255bd89ab54d7b0b14e3b0859ab82c6d252b95be2d5a7d3c305bfd5"
+                      },
+                      {
+                          "path":  "1_Flexo/MyCups/_DWF90-630-0000.ai",
+                          "asset":  "f-a0c40361ddc3d800.ai",
+                          "size":  451888,
+                          "sha256":  "a0c40361ddc3d8004735ed926aa94722e7de794a231655a5abee7934bdcf69a3"
                       },
                       {
                           "path":  "1_Flexo/MyCups/_EH80-280-0000.ai",
@@ -594,9 +744,9 @@
                       },
                       {
                           "path":  "1_Flexo/MyCups/_EM90-430-0000.ai",
-                          "asset":  "f-72c0e1b1dee08916.ai",
-                          "size":  2186944,
-                          "sha256":  "72c0e1b1dee089161535494788c2500df00ff730b48b92a76f92ca98e766b1e4"
+                          "asset":  "f-60de9008c8f36419.ai",
+                          "size":  2183542,
+                          "sha256":  "60de9008c8f3641927bb59c959dc7c816510b8dad82b5a70fe6a605642119fb6"
                       },
                       {
                           "path":  "1_Flexo/MyCups/_EM90-530-0000.ai",
@@ -887,6 +1037,12 @@
                           "sha256":  "fe1c65665c6c74a9e07ea423165199c211d3b39a783440f5778af86bf077e1b6"
                       },
                       {
+                          "path":  "1_Flexo/PDF/_DW90-630-0000.pdf",
+                          "asset":  "f-4b9fee4612615211.pdf",
+                          "size":  128455,
+                          "sha256":  "4b9fee4612615211ded2385998815da248aa43875c7fff820202cb5b5c90b529"
+                      },
+                      {
                           "path":  "1_Flexo/PDF/_EM80-280-0000.pdf",
                           "asset":  "f-47caa60d60dc6038.pdf",
                           "size":  1653685,
@@ -906,9 +1062,9 @@
                       },
                       {
                           "path":  "2_Offset/_DW80-280-0000 MC_work.ai",
-                          "asset":  "f-49f08037caa91e69.ai",
-                          "size":  428530,
-                          "sha256":  "49f08037caa91e69838fb7b7821c5d19c4cf81ad0c1ae60f07e40f6ed7dd3042"
+                          "asset":  "f-b671d1aecd585459.ai",
+                          "size":  431773,
+                          "sha256":  "b671d1aecd585459f849e23112746999014665862983aa449f318a21fac1d29c"
                       },
                       {
                           "path":  "2_Offset/_DW90-430-0000 MC_work.ai",
@@ -921,6 +1077,12 @@
                           "asset":  "f-9a43443072a9f433.ai",
                           "size":  389945,
                           "sha256":  "9a43443072a9f4331577e12ff2765c656cd596aeaafac18a4bbe52f856f4c482"
+                      },
+                      {
+                          "path":  "2_Offset/_DW90-630-0000 MC_work.ai",
+                          "asset":  "f-e2b1d102fb857785.ai",
+                          "size":  497979,
+                          "sha256":  "e2b1d102fb8577851713cc055e9045ea160a0f1f0d888a41ccfd2d36e2e172b8"
                       },
                       {
                           "path":  "2_Offset/_EM80-280-0000 MC_work.ai",
@@ -941,6 +1103,12 @@
                           "sha256":  "01010a83ef910d243c650165025e19d57178b70861375e7d7d4ec839fc82e5c8"
                       },
                       {
+                          "path":  "2_Offset/_HB62-120_0000.ai",
+                          "asset":  "f-7579d7fd66291847.ai",
+                          "size":  341896,
+                          "sha256":  "7579d7fd66291847c14eab313a2ec7457191ea8dc0bb4872b8b9618a2eb6f6ef"
+                      },
+                      {
                           "path":  "2_Offset/HB/_HB80-280-0000_MC_work.ai",
                           "asset":  "f-2a47c4caf5d95328.ai",
                           "size":  355983,
@@ -957,6 +1125,30 @@
                           "asset":  "f-4791d97eb2db8b20.ai",
                           "size":  349541,
                           "sha256":  "4791d97eb2db8b20b087bf5bea7bb3fac06a05db25a687711130a12785f16754"
+                      },
+                      {
+                          "path":  "2_Offset/PDF/DW90-630_500ml.pdf",
+                          "asset":  "f-ceebe2097872ee72.pdf",
+                          "size":  497768,
+                          "sha256":  "ceebe2097872ee721399fc57f317518fa82aa7c275a38d9cfa1590afed434351"
+                      },
+                      {
+                          "path":  "2_Offset/PDF/_DW80-280-0000 MC_work.pdf",
+                          "asset":  "f-3007e7a02c9457e2.pdf",
+                          "size":  141547,
+                          "sha256":  "3007e7a02c9457e27b1f662421463ddfa957fd8b94b4a135587d1cc40891188a"
+                      },
+                      {
+                          "path":  "2_Offset/PDF/_DW90-430-0000 MC_work.pdf",
+                          "asset":  "f-96333a12eb480d17.pdf",
+                          "size":  155666,
+                          "sha256":  "96333a12eb480d17ee86c01ff0f378eca5b969b776fa092438a92cc330cde1ca"
+                      },
+                      {
+                          "path":  "2_Offset/PDF/_DW90-530-0000 MC_work.pdf",
+                          "asset":  "f-daf8b6a3913f91d5.pdf",
+                          "size":  143274,
+                          "sha256":  "daf8b6a3913f91d5f7c193d5dcfef17fb4dbb714a5b294493f5cad60ca8b5c2f"
                       },
                       {
                           "path":  "2_Offset/PDF/_EM80-280-0000 MC_work.pdf",
@@ -1023,6 +1215,18 @@
                           "asset":  "f-cd026a031be6c768.ai",
                           "size":  321916,
                           "sha256":  "cd026a031be6c768c34b58da5574dae4f105425f065c9e1372205aeb5a3ee5ce"
+                      },
+                      {
+                          "path":  "3_CupsToYou_Tr/4oz/_HB62-120-0000 MC_tr.ai",
+                          "asset":  "f-0dcad2b8408cf246.ai",
+                          "size":  299081,
+                          "sha256":  "0dcad2b8408cf246ad7445194af82becc56560f5534dc3280205e6b10d6cf160"
+                      },
+                      {
+                          "path":  "3_CupsToYou_Tr/4oz/_HB62-120-0000 MC_tr.pdf",
+                          "asset":  "f-05aed3e4b68c1ef9.pdf",
+                          "size":  298767,
+                          "sha256":  "05aed3e4b68c1ef938c921dca5dfa6db7ab955b5c1185ddf943cebec3a67c5ed"
                       },
                       {
                           "path":  "3_CupsToYou_Tr/7oz/7 OZ BIÇAK kore makine.ai",
@@ -1512,111 +1716,111 @@
                       },
                       {
                           "path":  "7_Plastic/BM90-410-V_work.ai",
-                          "asset":  "f-7123052fccb5737a.ai",
-                          "size":  321392,
-                          "sha256":  "7123052fccb5737a3938c5c6d12500ec7bdb14a4493a0b80f5bfbd4c90641935"
+                          "asset":  "f-0434db62851312ab.ai",
+                          "size":  320734,
+                          "sha256":  "0434db62851312ab4299778fb3aecc8c0004269b09ae647ac1d13deb82eac496"
                       },
                       {
                           "path":  "7_Plastic/BM90-410_work.ai",
-                          "asset":  "f-19b914e965181387.ai",
-                          "size":  319050,
-                          "sha256":  "19b914e9651813876dbeb971e5fbed018370a8c13f4f1a2f06a5b525156f5fe8"
+                          "asset":  "f-303f3835911a4de0.ai",
+                          "size":  318664,
+                          "sha256":  "303f3835911a4de0f8b1d0996aec0d12cb83c6f44f069af44c7faaf0c7c0c98f"
                       },
                       {
                           "path":  "7_Plastic/BM90-410_work.pdf",
-                          "asset":  "f-df48b0b6109d65f7.pdf",
-                          "size":  309688,
-                          "sha256":  "df48b0b6109d65f702139972988d8cf99339a46a8646b16ebe83c946b01a0d85"
+                          "asset":  "f-b1df826b9b580f3f.pdf",
+                          "size":  318666,
+                          "sha256":  "b1df826b9b580f3fc5a24ad98bb2997c3bbd343030c090afaf37927c7cc93d23"
                       },
                       {
                           "path":  "7_Plastic/BM90-500-V_work.ai",
-                          "asset":  "f-a88becbbf218d3b9.ai",
-                          "size":  312415,
-                          "sha256":  "a88becbbf218d3b915238b2766ffbd90cdf26aea968caf4dbc064a61db1ada56"
+                          "asset":  "f-d2f3c282906c22d7.ai",
+                          "size":  311109,
+                          "sha256":  "d2f3c282906c22d7441467c83bd8a05df43098ccf9d339f27f837dd483122e8f"
                       },
                       {
                           "path":  "7_Plastic/BM90-500_work.ai",
-                          "asset":  "f-66a42a2bebae5098.ai",
-                          "size":  311474,
-                          "sha256":  "66a42a2bebae50981bdee124335b7bd2c52c66720f31d2f801cda8c022e7c578"
+                          "asset":  "f-68e2a04438c16326.ai",
+                          "size":  311114,
+                          "sha256":  "68e2a04438c16326388d2c8024a3925aed7943b8c89768387ba8b6ea35debb46"
                       },
                       {
                           "path":  "7_Plastic/BM90-500_work.pdf",
-                          "asset":  "f-0baaf7f024c5fd43.pdf",
-                          "size":  311275,
-                          "sha256":  "0baaf7f024c5fd43d26c970eb8140dae9df349bcf036672385bb21879ad1f006"
+                          "asset":  "f-792c41a09dd9c9e3.pdf",
+                          "size":  311116,
+                          "sha256":  "792c41a09dd9c9e3392e5b843e02ae67a5f9c5b8e34bf5531e3934e867d590b7"
                       },
                       {
                           "path":  "7_Plastic/BM90-655-V_work.ai",
-                          "asset":  "f-e9c99d0ac7f1cebf.ai",
-                          "size":  317586,
-                          "sha256":  "e9c99d0ac7f1cebfd810d240826f47ab3e317b43ffb0f94a40d58a537d633a96"
+                          "asset":  "f-32cb6010851fdc33.ai",
+                          "size":  317049,
+                          "sha256":  "32cb6010851fdc3311ca18ef6fd1c341632ef5f654e91c1a07274caefbc5530d"
                       },
                       {
                           "path":  "7_Plastic/BM90-655_work.ai",
-                          "asset":  "f-887abffe93a4b566.ai",
-                          "size":  315157,
-                          "sha256":  "887abffe93a4b56620d2413c492261bab5759b3fd3253bf3dd970a18b623f562"
+                          "asset":  "f-51541e2abaced25e.ai",
+                          "size":  315085,
+                          "sha256":  "51541e2abaced25e3fea2789158ecc489782a51c351b0d6ad4b898e1d835fb78"
                       },
                       {
                           "path":  "7_Plastic/BM90-655_work.pdf",
-                          "asset":  "f-907072688a3487f1.pdf",
-                          "size":  307993,
-                          "sha256":  "907072688a3487f173bfa3b34d384a7742476f607b624855c2d17a658f246a0d"
+                          "asset":  "f-503bea54b18614b0.pdf",
+                          "size":  315087,
+                          "sha256":  "503bea54b18614b04c9448cb7329606cca43012a35d6cbfb97cd127741fc1b27"
                       },
                       {
                           "path":  "7_Plastic/PG95-400-P_work.ai",
-                          "asset":  "f-1d0b4182cc6f9786.ai",
-                          "size":  325568,
-                          "sha256":  "1d0b4182cc6f978643b62cb71a7549d6b95ae4c9273c2173f697135779418bba"
+                          "asset":  "f-c9fc1c611a60f1ba.ai",
+                          "size":  324921,
+                          "sha256":  "c9fc1c611a60f1ba9250df3ac6a960cfef275575f57c2e4481516525f62d42a6"
                       },
                       {
                           "path":  "7_Plastic/PG95-400_work.ai",
-                          "asset":  "f-6b8b58001dad0bdc.ai",
-                          "size":  323005,
-                          "sha256":  "6b8b58001dad0bdc3f61abc1fc99bd14c453e11ef4b511156c38a94178382a15"
+                          "asset":  "f-be8f026c67091cad.ai",
+                          "size":  323735,
+                          "sha256":  "be8f026c67091cad8bc2f08777ab31f64ce6ce23bd998dd0bbbbac7d18e4337d"
                       },
                       {
                           "path":  "7_Plastic/PG95-400_work.pdf",
-                          "asset":  "f-ebc8b29cfa8dce3e.pdf",
-                          "size":  315356,
-                          "sha256":  "ebc8b29cfa8dce3ef423a230b5ec27a83e362fbee3a8db7f7dcc848ed0b0aff3"
+                          "asset":  "f-45bf53a172b624b5.pdf",
+                          "size":  323737,
+                          "sha256":  "45bf53a172b624b5dc59d144f52120c31cc4d6dac124663b058c4b27befaf26b"
                       },
                       {
                           "path":  "7_Plastic/PG95-520-P_work.ai",
-                          "asset":  "f-38ff897b4792a1a5.ai",
-                          "size":  326811,
-                          "sha256":  "38ff897b4792a1a5fdc3f98594c16d92c500fd206ca97580e296f423887b31ae"
+                          "asset":  "f-a5772a49707eafbd.ai",
+                          "size":  326537,
+                          "sha256":  "a5772a49707eafbd26e16bb36c10a8f1cd152c871b1b65379d84631bc91898ad"
                       },
                       {
                           "path":  "7_Plastic/PG95-520_work.ai",
-                          "asset":  "f-924557d47b8ddb0b.ai",
-                          "size":  324631,
-                          "sha256":  "924557d47b8ddb0b2673d98fbaaac05eeca312cd0286728526a353365a591647"
+                          "asset":  "f-883965e721982480.ai",
+                          "size":  324982,
+                          "sha256":  "883965e72198248029bf1149d1ad3f835da6e3fc80d3f62ab4a0eb517df8e055"
                       },
                       {
                           "path":  "7_Plastic/PG95-520_work.pdf",
-                          "asset":  "f-55fb2ef97be2278a.pdf",
-                          "size":  316161,
-                          "sha256":  "55fb2ef97be2278a9588cd630ee9473e672e30878a999df0766c0338b8b11e64"
+                          "asset":  "f-ffa1af96e327d4c4.pdf",
+                          "size":  324984,
+                          "sha256":  "ffa1af96e327d4c4e62885104d85ac337ecf70207188a019c34caab36cccccb4"
                       },
                       {
                           "path":  "7_Plastic/PG95-600-P_work.ai",
-                          "asset":  "f-3e76a26b205cc6cd.ai",
-                          "size":  326719,
-                          "sha256":  "3e76a26b205cc6cdb59ebb549fd6be7a959d3b5eeeffe5ae36effbf48b74c028"
+                          "asset":  "f-a9892f5686237ab4.ai",
+                          "size":  326764,
+                          "sha256":  "a9892f5686237ab4fc28d74e99086eb680fde014862f6d17a4a2a5d8656d6b6a"
                       },
                       {
                           "path":  "7_Plastic/PG95-600_work.ai",
-                          "asset":  "f-8f77279b410f7a08.ai",
-                          "size":  327064,
-                          "sha256":  "8f77279b410f7a085522ea642e024b3d723cd2c4bf10d7e0fd7fd6779c3467db"
+                          "asset":  "f-6eea5aead76c3f89.ai",
+                          "size":  326283,
+                          "sha256":  "6eea5aead76c3f896cc569b8ff9231c363bd171f7c00e071722e5470f0efb1b0"
                       },
                       {
                           "path":  "7_Plastic/PG95-600_work.pdf",
-                          "asset":  "f-27f38024d18fe344.pdf",
-                          "size":  316037,
-                          "sha256":  "27f38024d18fe344c53d5745f74ff871d84a14c10f03e23c30c35b700dfb7a91"
+                          "asset":  "f-d01817e406f529e1.pdf",
+                          "size":  326285,
+                          "sha256":  "d01817e406f529e135a44b55ad1ca0c67c4e60f6e49b738fd037187a08d90fda"
                       },
                       {
                           "path":  "7_Plastic/Bubble/JPG/BM90-410-V_work.jpg",
@@ -1956,21 +2160,33 @@
                       },
                       {
                           "path":  "Kraft/.metadata/.Крафт1-10.jpg.info",
-                          "asset":  "f-6527433833e03284.info",
+                          "asset":  "f-ae52eb701c8d75d9.info",
                           "size":  2917,
-                          "sha256":  "6527433833e03284bc2c276e630955c866aa2096f191bd37ea4d2b2e43ecff2a"
+                          "sha256":  "ae52eb701c8d75d9c1554e8f163380cef7cb4effea91d6435d8a2812a111793e"
                       },
                       {
                           "path":  "Kraft/.metadata/.Крафт1-15.jpg.info",
-                          "asset":  "f-3fc62bbb12dce3a9.info",
+                          "asset":  "f-87a16727d43b8e51.info",
                           "size":  2917,
-                          "sha256":  "3fc62bbb12dce3a95974ff3123f2f99189752b26c8003f319d1c5631b395fbfc"
+                          "sha256":  "87a16727d43b8e511a09ae186a2967e2e1095d7c8947a9d314c3999f645892f6"
                       },
                       {
                           "path":  "Kraft/.metadata/.Крафт1-20.jpg.info",
                           "asset":  "f-de6a99c8c4bd904c.info",
                           "size":  2851,
                           "sha256":  "de6a99c8c4bd904c77a1522ce7bd73299ec7c7284cd7f784923a95c37621ea7f"
+                      },
+                      {
+                          "path":  "OTHER/_EM90-430-0000.ai",
+                          "asset":  "f-07d2b5321094f71e.ai",
+                          "size":  2250968,
+                          "sha256":  "07d2b5321094f71e94cf6a38c4e84cddc2a10a7aa6be1fe7684a7750a8bb4c09"
+                      },
+                      {
+                          "path":  "OTHER/_EM90-430-0000.pdf",
+                          "asset":  "f-ec2aa1cc227dc4bb.pdf",
+                          "size":  2250786,
+                          "sha256":  "ec2aa1cc227dc4bb6090a5dbf1769f882a2bc4bdadc46e1a5d1de62b2f30e7a4"
                       },
                       {
                           "path":  "Scripts/0_DW_Start.jsx",
@@ -2015,10 +2231,22 @@
                           "sha256":  "dce1031eaf42a9698ce36c0e1cde1e436d2d51947cbd9a1862417cd92e39c1a2"
                       },
                       {
+                          "path":  "Scripts/Export_Text_Groups.jsx",
+                          "asset":  "f-04039797f4af2350.jsx",
+                          "size":  10220,
+                          "sha256":  "04039797f4af2350f5a5cf621477ec6d3caefcb16e8bac03e1800ac16716d8d4"
+                      },
+                      {
                           "path":  "Scripts/flexo-formatter.html",
                           "asset":  "f-d84078b516d7c4a3.html",
                           "size":  35704,
                           "sha256":  "d84078b516d7c4a37d777d6d6954af3cf18dd7339666773a732f1fef82041926"
+                      },
+                      {
+                          "path":  "Scripts/Mockup.jsx",
+                          "asset":  "f-3e03753d0c7344c3.jsx",
+                          "size":  1950,
+                          "sha256":  "3e03753d0c7344c3d0dd71ddc9df0ea5ca2a0a37852d87b4e90f4dafcdbf0b64"
                       },
                       {
                           "path":  "Scripts/Pantone_CMYK_Analog.jsx",
@@ -2052,15 +2280,27 @@
                       },
                       {
                           "path":  "Scripts/PANTONE/corel_xml_to_ase_cmyk.py",
-                          "asset":  "f-68e3bd1239b9eeb9.py",
-                          "size":  7049,
-                          "sha256":  "68e3bd1239b9eeb9841bd9cd12c50bcd64ed31ef91af58adf8cde32177180098"
+                          "asset":  "f-d6a22b67d9caf599.py",
+                          "size":  6508,
+                          "sha256":  "d6a22b67d9caf599aa13f198b5baf7b0c045c1b61ab1fb1d8066199b33130c1f"
                       },
                       {
                           "path":  "Scripts/PANTONE/index.html",
                           "asset":  "f-6c3d1e600ddc8020.html",
                           "size":  17992,
                           "sha256":  "6c3d1e600ddc8020d732619f1bc33a2ebfa70fce1b6c7b7b998bc59f87d921cf"
+                      },
+                      {
+                          "path":  "Scripts/PANTONE/PantoneColorBridgeUncoated_CMYK_BAG.ase",
+                          "asset":  "f-d3616f2fc551870b.ase",
+                          "size":  2454,
+                          "sha256":  "d3616f2fc551870b50958f4dcd25d3312d3fc4d3eb53d18d5eaa807fc6108d4d"
+                      },
+                      {
+                          "path":  "Scripts/PANTONE/PantoneColorBridgeUncoated_CMYK_SUGAR.ase",
+                          "asset":  "f-5e36ad6392a6d03e.ase",
+                          "size":  51606,
+                          "sha256":  "5e36ad6392a6d03e7bfbe8afd7ed9ca8e28a74f83ee10589480aa0a152dbf87f"
                       },
                       {
                           "path":  "Scripts/PANTONE/PantonePlusColorBridgeCoated.xml",
@@ -2075,6 +2315,12 @@
                           "sha256":  "6c5e14851e72facca0c97a167c4fa19c57d4b123d906264630243f2fa057ca44"
                       },
                       {
+                          "path":  "Scripts/PANTONE/PantonePlusColorBridgeUncoated_BAG.xml",
+                          "asset":  "f-5e8487d1c59970e5.xml",
+                          "size":  21309,
+                          "sha256":  "5e8487d1c59970e55b736ffe0b866163ea061115a5ee6bc12df2e3e400bc78a3"
+                      },
+                      {
                           "path":  "Scripts/PANTONE/PantonePlusColorBridgeUncoated_CMYK_SPOT.ase",
                           "asset":  "f-53d114347fa2d301.ase",
                           "size":  112802,
@@ -2085,6 +2331,54 @@
                           "asset":  "f-9ad8d1201ac8b278.ase",
                           "size":  112798,
                           "sha256":  "9ad8d1201ac8b278e8f950c67e6ede1b69cbd9a45d3b6202479cf038301aa176"
+                      },
+                      {
+                          "path":  "Scripts/PANTONE/PANTONE_COATED.pdf",
+                          "asset":  "f-e9b7c39b7f0121ae.pdf",
+                          "size":  6622203,
+                          "sha256":  "e9b7c39b7f0121ae54dfb57c0c9a2a831f9d2effd5a23687cc8c52c697760269"
+                      },
+                      {
+                          "path":  "Scripts/PANTONE/PANTONE_UNCOATED.pdf",
+                          "asset":  "f-4b5f7526b0b3ef7c.pdf",
+                          "size":  5447929,
+                          "sha256":  "4b5f7526b0b3ef7ce5a30fa396c2b8a70becf9cfdf27855d32aff3f326d190c9"
+                      },
+                      {
+                          "path":  "Scripts/PANTONE/PANTONE_UNCOATED_PAPERBAG.pdf",
+                          "asset":  "f-d684457d0ba05bf4.pdf",
+                          "size":  476469,
+                          "sha256":  "d684457d0ba05bf4590c958b4bfd5cb601d5572be57e15441b0ff372b57228d6"
+                      },
+                      {
+                          "path":  "Scripts/PANTONE/PANTONE_UNCOATED_SUGAR.pdf",
+                          "asset":  "f-bf5716e4e0970e0b.pdf",
+                          "size":  2762223,
+                          "sha256":  "bf5716e4e0970e0b35273cbfae827f7feb48309e46b8e6df261f5135d4c26e45"
+                      },
+                      {
+                          "path":  "Scripts/PANTONE/New/PANTONE Color Bridge Coated — CMYK печать.ase",
+                          "asset":  "f-5fcd09aaa9bf143f.ase",
+                          "size":  123216,
+                          "sha256":  "5fcd09aaa9bf143fbebb237687f6e8d0b49e0381298a1f55f6319cc4244447b5"
+                      },
+                      {
+                          "path":  "Scripts/PANTONE/New/PANTONE Color Bridge Uncoated — CMYK печать.ase",
+                          "asset":  "f-1a79898b376186f6.ase",
+                          "size":  123216,
+                          "sha256":  "1a79898b376186f6d9968843a8b26a505f21b440ae505b7289934072c730e9f5"
+                      },
+                      {
+                          "path":  "Scripts/PANTONE/New/PANTONE Solid Coated — RGB согласование.ase",
+                          "asset":  "f-b43cbb795d09f216.ase",
+                          "size":  145716,
+                          "sha256":  "b43cbb795d09f2165e5c1a28bb9b2070a41eea828ebb52d883b96d3ca70a838b"
+                      },
+                      {
+                          "path":  "Scripts/PANTONE/New/PANTONE Solid Uncoated — RGB согласование.ase",
+                          "asset":  "f-328fd86502d30cd1.ase",
+                          "size":  145660,
+                          "sha256":  "328fd86502d30cd11ab22124ea45dfefabf5a4d8dc174f537cdb4e0cb6ee9204"
                       },
                       {
                           "path":  "Scripts/SEP/ink_coverage.py",
